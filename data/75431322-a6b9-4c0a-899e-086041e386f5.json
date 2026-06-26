@@ -1,0 +1,45 @@
+{
+  "id": "75431322-a6b9-4c0a-899e-086041e386f5",
+  "createdAt": "2026-06-26T12:28:37.495Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Bold"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_facaf7cd-60fa-46cf-ae9f-ecc37464f74e.webp",
+  "productImageFilename": "product_facaf7cd-60fa-46cf-ae9f-ecc37464f74e.webp",
+  "productImageFilenames": [
+    "product_facaf7cd-60fa-46cf-ae9f-ecc37464f74e.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Problem-Solution",
+    "angle_rationale": "Coffee switchers have a specific pain point (jitters, crash, dependency) and need a credible alternative — Problem-Solution directly addresses the objection and makes the purchase decision feel obvious.",
+    "visual_description": "A clean, minimal flat-lay shot on a warm natural linen surface with the Organica Tulsi Green Tea box/pouch as the hero product, placed center-frame with a small ceramic cup of pale green tea steaming beside it. Soft warm morning window light from the upper left creates gentle shadows and a calm, grounded mood — no clutter, no coffee mug, just quiet intentional energy.",
+    "headlines": [
+      "Ditch Coffee. Feel Better.",
+      "Your Morning Ritual, Upgraded.",
+      "No Crash. Just Calm Energy."
+    ],
+    "subheadlines": [
+      "Tulsi Green Tea gives you clean energy, zero jitters, and no afternoon crash.",
+      "Switch from coffee to Organica Tulsi Green Tea — your body will thank you by noon.",
+      "Ancient tulsi + green tea = the energy boost coffee never could deliver cleanly."
+    ],
+    "ctas": [
+      "Make The Switch",
+      "Shop Now",
+      "Try It Today"
+    ]
+  }
+}

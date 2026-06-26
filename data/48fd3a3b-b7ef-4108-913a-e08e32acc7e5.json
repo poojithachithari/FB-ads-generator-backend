@@ -1,0 +1,46 @@
+{
+  "id": "48fd3a3b-b7ef-4108-913a-e08e32acc7e5",
+  "createdAt": "2026-06-25T11:49:13.315Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "tulsi green tea",
+    "targetAudience": "People who want to switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building"
+    ],
+    "visualStyle": [
+      "Minimal"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_54508ed4-7a88-460b-bf2a-8099587f2af6.webp",
+  "productImageFilename": "product_54508ed4-7a88-460b-bf2a-8099587f2af6.webp",
+  "productImageFilenames": [
+    "product_54508ed4-7a88-460b-bf2a-8099587f2af6.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Authority",
+    "angle_rationale": "Coffee switchers are skeptical and need credible reassurance that tulsi green tea actually delivers calm energy — authority framing with social proof and clean editorial presentation earns that trust fastest.",
+    "visual_description": "A soft gradient studio background transitions from muted sage green at the top to near-white at the bottom, with the Organica Tulsi Green Tea stand-up pouch centered and grounded on a light neutral surface with a soft natural drop shadow beneath it. Lighting is even and diffused, casting no harsh shadows, allowing the deep forest green and accent lime green of the product label to read clearly and crisply. The composition is minimal and purely product-focused — no props, no human elements — conveying quiet authority and health-conscious refinement.",
+    "headlines": [
+      "The Calm\nEnergy Switch",
+      "Backed By\nAncient Wisdom",
+      "Your Coffee\nNeeds A Break"
+    ],
+    "subheadlines": [
+      "Certified organic tulsi green tea with steady energy and zero jitters.",
+      "Organica's tulsi blend is trusted by 500+ coffee switchers and counting.",
+      "Pure tulsi and green tea — clinically calm, naturally energizing, zero crash."
+    ],
+    "ctas": [
+      "Shop Organica",
+      "Try Tulsi Tea",
+      "Make The Switch"
+    ],
+    "rating_text": "★★★★★ 500+ Happy Switchers"
+  }
+}

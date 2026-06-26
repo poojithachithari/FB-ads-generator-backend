@@ -1,0 +1,47 @@
+{
+  "id": "918ce284-aea2-46a7-bee4-9a6dec92de2a",
+  "createdAt": "2026-06-26T15:04:35.420Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building",
+      "Soft",
+      "Playful"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_661ec880-d2d0-4928-972c-4a5463a59a48.webp",
+  "productImageFilename": "product_661ec880-d2d0-4928-972c-4a5463a59a48.webp",
+  "productImageFilenames": [
+    "product_661ec880-d2d0-4928-972c-4a5463a59a48.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Authority",
+    "angle_rationale": "Coffee switchers need credibility and reassurance that Tulsi Green Tea is a legitimate, expert-backed alternative — not just a trend — making authority the strongest conversion driver.",
+    "visual_description": "The Organica Tulsi Green Tea product is centered and sharp in the lower half of the frame, resting on softly draped natural linen fabric against a warm cream background. Dried botanical branches and herbs are arranged to the left of the product, while a rolled linen cloth sits to the right, adding earthy organic texture. Soft diffused side lighting creates gentle shadows and a calm, premium, trustworthy mood throughout the composition.",
+    "headlines": [
+      "The Smarter Morning Ritual",
+      "What Nutritionists Drink Instead",
+      "Your Coffee Exit Starts Here"
+    ],
+    "subheadlines": [
+      "Organica Tulsi Green Tea is dietitian-approved for calm, focused energy — without the crash.",
+      "Backed by Ayurvedic tradition and modern nutrition science. Real energy. Zero jitters.",
+      "Thousands have made the switch. Here is exactly why nutritionists recommend it first."
+    ],
+    "ctas": [
+      "See Why It Works",
+      "Try It Today",
+      "Make the Switch"
+    ]
+  }
+}

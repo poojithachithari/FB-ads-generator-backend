@@ -1,0 +1,53 @@
+{
+  "id": "0bdfb327-66f2-4a02-b33a-fca84d168169",
+  "createdAt": "2026-06-26T14:15:20.919Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building",
+      "Soft"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_df7f0761-3269-43fa-a3a6-f90a4554a896.webp",
+  "productImageFilename": "product_df7f0761-3269-43fa-a3a6-f90a4554a896.webp",
+  "productImageFilenames": [
+    "product_df7f0761-3269-43fa-a3a6-f90a4554a896.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Problem-Solution",
+    "angle_rationale": "Coffee switchers have a specific friction point — jitters, crashes, dependency — and the checklist format directly neutralizes each objection with a clean, credible benefit.",
+    "visual_description": "A soft two-tone gradient background transitions smoothly from muted sage green on the left to near-white on the right, evoking a calm, natural wellness aesthetic. The Organica Tulsi Green Tea stand-up pouch is positioned on the left half at a gentle outward angle, its earthy kraft-toned packaging crisp and fully legible, casting a soft diffused shadow on the gradient surface below. Studio-quality lighting is even and airy, keeping the entire frame in sharp focus with no harsh shadows — the right half remains open and typographically clean.",
+    "headlines": [
+      "Your Calm Coffee Alternative.",
+      "Ditch The Jitters. Keep The Ritual.",
+      "Feel Good From The First Sip."
+    ],
+    "subheadlines": [
+      "Organica Tulsi Green Tea gives you steady, natural energy — no crash, no anxiety, no regrets.",
+      "Gentle on your body, rich in antioxidants — the smarter morning cup you have been waiting for.",
+      "Trusted by thousands making the switch — pure tulsi and green tea, nothing else added."
+    ],
+    "ctas": [
+      "Try It Today",
+      "Shop Now",
+      "Make The Switch"
+    ],
+    "checklist_items": [
+      "No caffeine crash",
+      "Zero artificial additives",
+      "Steady natural energy",
+      "Soothes stress gently",
+      "Antioxidant-rich blend"
+    ]
+  }
+}

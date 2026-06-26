@@ -1,0 +1,61 @@
+{
+  "id": "2a3276f9-7e92-4668-af3a-eebfb668d842",
+  "createdAt": "2026-06-23T11:27:08.595Z",
+  "brief": {
+    "brandName": "vitaroot",
+    "productOffer": "NAC 600mg",
+    "targetAudience": "Adults looking for antioxidant supplements",
+    "adGoal": "Traffic",
+    "toneOfVoice": [
+      "Trust-building"
+    ],
+    "visualStyle": [
+      "Minimal",
+      "Bold graphic",
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_36f0106c-74d9-4758-8748-19edbd9ac4d8.webp",
+  "productImageFilename": "product_36f0106c-74d9-4758-8748-19edbd9ac4d8.webp",
+  "productImageFilenames": [
+    "product_36f0106c-74d9-4758-8748-19edbd9ac4d8.webp"
+  ],
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Authority",
+      "headline": "The antioxidant supplement\ndoctors actually recommend",
+      "subheadline": "Clinical-grade NAC 600mg — no fillers, no proprietary blends",
+      "primary_text": "NAC 600mg is one of the most studied antioxidant compounds available. vitaroot delivers the exact dose clinicians reference — nothing more, nothing less.",
+      "cta": "Shop Vitaroot",
+      "badge": "★★★★★ 500+ reviews",
+      "visual_description": "The vitaroot NAC 600mg pouch sits perfectly centered against a soft gradient background transitioning from muted sage green at the top to near-white cream at the bottom, shot straight-on with soft diffused front lighting that gives the packaging a clean three-dimensional presence. The product label faces the camera fully, with subtle cast shadow grounding it on a flat white surface. No props, no lifestyle elements — pure product authority with generous white space above for the two-line headline and below for the star rating and CTA pill button.",
+      "rationale": "The Authority angle matches the template's superlative headline structure and clean studio aesthetic, and directly addresses antioxidant supplement buyers who need clinical credibility before clicking through."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Social Proof",
+      "headline": "500 adults chose this NAC\nover every other brand",
+      "subheadline": "Real verified buyers. No incentivised reviews, no sponsored results.",
+      "primary_text": "When hundreds of antioxidant shoppers come back and leave 5 stars, the product speaks for itself. See why vitaroot NAC 600mg earned their trust.",
+      "cta": "See Reviews",
+      "badge": "★★★★★ 500+ reviews",
+      "visual_description": "The vitaroot NAC 600mg pouch is centered and slightly below the midpoint of the frame against a sage green-to-cream gradient background, lit with soft diffused overhead light that keeps the matte packaging texture crisp and readable. The composition is minimal and symmetrical — wide negative space above the product anchors the bold two-line headline, and the star rating row sits naturally in the white space directly below the pouch before the dark green CTA pill button. No lifestyle props or background elements distract from the product.",
+      "rationale": "Leading with the verified review count as the headline hook converts social proof from a supporting element into the primary scroll-stopper, which is highly effective for traffic goals where the click depends on immediate peer validation."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Specificity",
+      "headline": "Exactly 600mg NAC.\nNot 599. Not 601.",
+      "subheadline": "Precision-dosed glutathione precursor — third-party tested every batch",
+      "primary_text": "Most supplements round their doses. vitaroot NAC delivers the exact 600mg shown in peer-reviewed research — third-party verified, every single batch.",
+      "cta": "Shop Now",
+      "badge": "★★★★★ 500+ reviews",
+      "visual_description": "The vitaroot NAC 600mg pouch stands centered on a clean flat surface against the sage green-to-cream gradient background, photographed straight-on with soft diffused lighting that highlights the precision typography on the product label. The composition uses extreme white space above the product for the bold two-line headline and below for the star rating cluster and rounded dark green CTA pill button, keeping the entire frame uncluttered and design-led. No props, no secondary elements — the product's label detail becomes the visual proof point of the precision claim.",
+      "rationale": "Specificity-driven copy targeting adults who research supplements breaks through vague category claims by mirroring the analytical mindset of an informed antioxidant buyer, creating the curiosity and credibility needed to generate the click."
+    }
+  ],
+  "generatedImages": []
+}

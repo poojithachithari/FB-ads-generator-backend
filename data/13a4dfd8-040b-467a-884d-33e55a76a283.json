@@ -1,0 +1,46 @@
+{
+  "id": "13a4dfd8-040b-467a-884d-33e55a76a283",
+  "createdAt": "2026-06-15T12:29:27.959Z",
+  "brief": {
+    "brandName": "EcoProtein",
+    "productOffer": "Water lentil clean Protein Powder",
+    "targetAudience": "people looking for healthier vegan protein powder",
+    "adGoal": "Awareness",
+    "toneOfVoice": "Trust-building",
+    "visualStyle": "Product-only",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_7d7892f7-bee1-4b28-af4f-acab6714e85f.webp",
+  "productImageFilename": "product_7d7892f7-bee1-4b28-af4f-acab6714e85f.webp",
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Problem-Solution",
+      "headline": "Protein Without the Bloat",
+      "primary_text": "Most vegan proteins cause digestive issues. EcoProtein's water lentil powder is different — clean, complete & gut-friendly.",
+      "cta": "Learn More",
+      "visual_description": "The EcoProtein bottle is centered on a clean white marble surface with soft natural daylight casting a gentle shadow to the right. A small handful of raw water lentils is scattered organically beside the bottle to visually connect ingredient to product. The overall mood is minimal, clinical-clean, and trustworthy — no clutter, pale green accent tones from the label anchor the composition.",
+      "rationale": "Directly addresses the #1 pain point vegan protein seekers have with competing products, making EcoProtein feel like the rational, researched solution for a health-conscious audience."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Curiosity",
+      "headline": "Protein From Water Plants?",
+      "primary_text": "Water lentils are the world's fastest-growing plant protein. EcoProtein harnesses it — sustainably, cleanly, completely.",
+      "cta": "Learn More",
+      "visual_description": "The EcoProtein bottle stands upright on a dark, deep forest-green matte surface, lit by a single soft overhead spotlight that highlights the label's texture and makes the product the undeniable hero. A shallow pool of still water with a few floating micro-green lentil leaves surrounds the base of the bottle, creating an intriguing, nature-meets-science mood. The contrast between the dark background and the bright label gives the shot a premium, editorial quality.",
+      "rationale": "The unexpected ingredient origin sparks curiosity and drives stop-the-scroll behavior, making awareness-stage viewers want to investigate a genuinely novel product story."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Authority",
+      "headline": "The Cleanest Vegan Protein",
+      "primary_text": "No fillers. No artificial flavors. Just 22g of complete plant protein per serving. EcoProtein — backed by science, built for you.",
+      "cta": "Shop Now",
+      "visual_description": "The EcoProtein bottle is photographed straight-on against a pure off-white background with soft, diffused studio lighting that eliminates harsh shadows and renders every label detail with crisp clarity. A subtle embossed-style text overlay reading '100% Plant-Based | No Fillers | Complete Amino Profile' floats in clean sans-serif type beside the bottle. The composition is symmetrical and precise, projecting scientific credibility and brand confidence.",
+      "rationale": "A no-nonsense, specification-led visual paired with authority language builds immediate trust with ingredient-savvy vegan shoppers who scrutinize labels before buying."
+    }
+  ],
+  "generatedImages": []
+}

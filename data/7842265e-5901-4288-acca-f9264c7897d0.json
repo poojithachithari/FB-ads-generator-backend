@@ -1,0 +1,58 @@
+{
+  "id": "7842265e-5901-4288-acca-f9264c7897d0",
+  "createdAt": "2026-06-15T15:35:32.812Z",
+  "brief": {
+    "brandName": "eco protein",
+    "productOffer": "water lentils clean protein powder",
+    "targetAudience": "people looking for clean and vegan protein powders",
+    "adGoal": "Awareness",
+    "toneOfVoice": "Playful, Trust-building",
+    "visualStyle": "Lifestyle photo",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_1c3a511a-18fb-4910-a02d-cf4de2c95ba6.webp",
+  "productImageFilename": "product_1c3a511a-18fb-4910-a02d-cf4de2c95ba6.webp",
+  "productImageFilenames": [
+    "product_1c3a511a-18fb-4910-a02d-cf4de2c95ba6.webp"
+  ],
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Curiosity",
+      "headline": "Protein from... pond plants?",
+      "primary_text": "Yep, water lentils are a thing — and they're packed with clean, complete protein. Your smoothie just got an upgrade. 🌿",
+      "cta": "Learn More",
+      "visual_description": "A bright, sun-drenched kitchen counter scene where a curious-looking woman in her late 20s peers at the Eco Protein canister she's holding, a slight smile on her face as if she's just read the label for the first time. The product sits prominently at center-frame, label fully visible, beside a freshly blended green smoothie in a clear glass with a bamboo straw. Warm morning window light floods in from the left, casting soft golden tones across the white marble counter. The mood is candid, light, and genuinely delightful — like a real discovery moment caught on camera.",
+      "rationale": "Curiosity drives scroll-stopping awareness because 'water lentils' is an inherently surprising ingredient that invites a vegan protein-seeker to lean in and learn more, perfectly matching an education-first awareness goal."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Problem-Solution",
+      "headline": "Clean protein that's actually clean.",
+      "primary_text": "Tired of flipping over labels and squinting at fillers? Eco Protein is just water lentils — nothing weird, we promise. ✅",
+      "cta": "Learn More",
+      "visual_description": "A relaxed, natural lifestyle moment in a cozy home gym nook: a fit woman in her early 30s sits cross-legged on a yoga mat post-workout, casually spooning Eco Protein powder into a shaker bottle resting on the floor beside her. The product canister stands upright in the foreground, slightly left of center, label sharp and fully readable, while the background softly blurs into a plant-filled, warm-toned room. Diffused natural light from a nearby window gives the scene a calm, trustworthy glow — authentic and unhurried, not posed.",
+      "rationale": "Problem-Solution directly addresses the core pain point of label anxiety that plagues the clean and vegan protein audience, building immediate brand trust during an awareness-stage introduction to the product."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Social Proof",
+      "headline": "The protein powder plant nerds love.",
+      "primary_text": "Thousands of clean eaters have ditched the whey. Water lentils deliver complete protein — and your gut will thank you. 🌱",
+      "cta": "Learn More",
+      "visual_description": "A warm, golden-hour outdoor scene at a weekend farmers market: a group of two friends — one holding a reusable tote bag full of fresh produce, the other holding the Eco Protein canister and pointing at it enthusiastically mid-conversation — both laughing genuinely. The product is held at chest height in the right-center of the frame, label angled naturally toward camera. Lush greenery and soft bokeh market stalls fill the background. The light is warm and dappled, the mood effortlessly social and community-driven — real people, real moment.",
+      "rationale": "Social Proof anchors brand awareness in community validation, making the brand feel already-trusted and established to an audience of vegan and health-conscious consumers who rely heavily on peer recommendations."
+    }
+  ],
+  "generatedImages": [
+    {
+      "conceptId": "concept_2",
+      "filename": "ad_5c36eccb-c2cf-4dcc-9a67-b16ea8456ef8.png",
+      "imageUrl": "http://localhost:3001/generated/ad_5c36eccb-c2cf-4dcc-9a67-b16ea8456ef8.png",
+      "prompt": "Facebook/Instagram ad, professional photography. A warm, lived-in home gym nook bathed in soft diffused morning light filtering through a sheer linen curtain camera-left, casting long gentle shadows across a pale sage-green yoga mat. A fit woman in her early 30s with light olive skin, shoulder-length wavy dark hair loosely clipped back, sits cross-legged on the mat in a relaxed post-workout posture — wearing a fitted oatmeal-coloured ribbed sports bra and matching high-waisted biker shorts. She holds a clear shaker bottle in her left hand, resting it casually on her knee, while her right hand tips a clean wooden scoop of pale green-tinged protein powder into the bottle opening — a small, unhurried motion that feels entirely unposed.\n\nThe Eco Protein canister stands upright in the lower-left foreground, positioned on the yoga mat surface, angled 15 degrees toward the camera so the label faces forward and reads with full clarity. The product is the undisputed visual anchor of the frame — sharp, lit with a soft fill from the window, with natural shadows wrapping its cylindrical form and a gentle specular highlight running down its right edge. The canister occupies approximately the lower-left third of the composition, with the woman sitting in soft mid-ground focus behind and to the right, creating natural depth separation.\n\nSurrounding the base of the canister: a few small pale-green water lentil seeds scattered organically on the mat surface, some catching the window light with a matte, papery texture — a quiet visual signal of the product's single clean ingredient. In the soft background, slightly out of focus: a terracotta pot with trailing pothos, a rolled second yoga mat in warm rust tones propped against a white plaster wall, and a small wooden shelf holding a glass water bottle and a folded off-white towel. The environment signals wellness without performance — calm, real, aspirational but not sterile.\n\nLens character: 85mm with shallow depth of field, f/2.0 feel — the canister label in tack-sharp focus, the woman rendered with gentle bokeh softness that preserves her expression and posture without competing with the product. Camera positioned at low counter height, slightly below eye level of the seated figure, angled upward 10 degrees to give the canister foreground authority. The woman glances down at the scoop with a calm, slightly amused expression — the visual language of someone who has already made the decision and feels good about it.\n\nLighting: primary soft window light from camera-left at 45 degrees, warm ivory colour temperature approximately 5000K, no harsh contrasts — wrapping the scene in an even, trustworthy glow. Subtle warm bounce from the wooden floor below adds depth to shadows under the canister. No artificial flash, no overhead rim light, no studio setup visible. The entire atmosphere reads as an authentic Sunday morning, not a photoshoot.\n\nColor palette: warm ivory, sage green, oatmeal, terracotta accents, matte off-white walls. Skin tones natural and unretouched in feel. Color grade",
+      "method": "gemini-product",
+      "generatedAt": "2026-06-15T15:37:18.426Z"
+    }
+  ]
+}

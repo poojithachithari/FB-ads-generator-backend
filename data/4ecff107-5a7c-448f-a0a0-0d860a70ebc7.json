@@ -1,0 +1,46 @@
+{
+  "id": "4ecff107-5a7c-448f-a0a0-0d860a70ebc7",
+  "createdAt": "2026-06-26T13:06:45.958Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_db9a3f4f-fee7-4e9f-add8-c6d677a32040.webp",
+  "productImageFilename": "product_db9a3f4f-fee7-4e9f-add8-c6d677a32040.webp",
+  "productImageFilenames": [
+    "product_db9a3f4f-fee7-4e9f-add8-c6d677a32040.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Social Proof",
+    "angle_rationale": "The template is architecturally built around a review-count stat and star rating, making peer validation the most structurally honest and conversion-effective angle for a coffee-switcher audience that needs reassurance before trying a new daily ritual.",
+    "visual_description": "The uploaded Organica Tulsi Green Tea product is centered in the lower half of a deep forest green background (#1a3d2b), with a soft warm radial spotlight vignette glowing beneath the product to create depth and premium shelf presence. The upper half remains clean and open with generous negative space for text layering. Flat studio lighting keeps the product crisp and legible against the rich green field, with a muted olive-toned ambient glow that reinforces the brand's eco-conscious, trustworthy aesthetic.",
+    "headlines": [
+      "12,000+ Coffee Quitters Agree.",
+      "Rated #1 Coffee Alternative.",
+      "10,000+ Mornings, Zero Regrets."
+    ],
+    "subheadlines": [
+      "They gave up the jitters. They found calm, focused energy. Organica Tulsi Green Tea made switching effortless.",
+      "Thousands left their coffee habit behind — and never looked back. Clean energy, no crash, no compromise.",
+      "Real customers switched from daily coffee and discovered steady energy without the anxiety or afternoon crash."
+    ],
+    "ctas": [
+      "Join Them Today",
+      "Try It Now",
+      "Make the Switch"
+    ],
+    "rating_text": "★★★★★ 12,000+ Happy Switchers"
+  }
+}

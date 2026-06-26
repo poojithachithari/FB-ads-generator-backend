@@ -1,0 +1,13 @@
+{
+  "watch": ["."],
+  "ext": "js,json",
+  "ignore": [
+    "uploads/*",
+    "generated/*",
+    "brand-images/*",
+    "template-images/*",
+    "example-images/*",
+    "data/*",
+    "*.log"
+  ]
+}

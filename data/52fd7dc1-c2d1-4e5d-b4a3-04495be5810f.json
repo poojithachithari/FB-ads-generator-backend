@@ -1,0 +1,46 @@
+{
+  "id": "52fd7dc1-c2d1-4e5d-b4a3-04495be5810f",
+  "createdAt": "2026-06-15T12:16:10.707Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "simple chamomile tea",
+    "targetAudience": "Adults 20-55 having trouble sleeping",
+    "adGoal": "Conversions",
+    "toneOfVoice": "Playful",
+    "visualStyle": "Product-only",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_96b8bed3-30ba-48fa-9d67-8f6eca1625cb.webp",
+  "productImageFilename": "product_96b8bed3-30ba-48fa-9d67-8f6eca1625cb.webp",
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Problem-Solution",
+      "headline": "Still Awake at 2am? 🌙",
+      "primary_text": "Your brain won't quit. Our chamomile will. Organica Simple Chamomile — sip, breathe, sleep. 😴",
+      "cta": "Shop Now",
+      "visual_description": "The Organica chamomile tea box/package is centred on a deep navy-blue background, lit with a single soft warm spotlight from above casting a gentle golden glow on the product. A few dried chamomile flowers are scattered casually around the base of the product on the surface. The mood is calm, cosy, and intimate — like a quiet kitchen counter at midnight.",
+      "rationale": "Directly names the audience's pain point (sleeplessness) and immediately positions the product as the playful, effortless fix, driving high purchase intent from sleep-deprived adults."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "FOMO",
+      "headline": "The Tea Sold Every 4 Mins ⏱️",
+      "primary_text": "Night owls are catching on. Organica Chamomile is flying off shelves — your best sleep is one box away.",
+      "cta": "Get Offer",
+      "visual_description": "The Organica chamomile tea product is photographed straight-on against a warm cream-white background with soft, even studio lighting that makes the packaging colours pop vibrantly. A bold minimalist badge graphic reading '⭐ Fan Favourite' is overlaid in the upper-right corner of the image. The overall look is clean, confident, and slightly urgent.",
+      "rationale": "Leveraging scarcity and crowd-validation creates urgency for hesitant buyers who need social momentum to commit to a purchase."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Curiosity",
+      "headline": "What If Sleep Was This Easy?",
+      "primary_text": "One tiny chamomile flower. One big night's sleep. Organica keeps it beautifully simple. 🌼",
+      "cta": "Learn More",
+      "visual_description": "The Organica chamomile tea package is placed at a slight 15-degree angle on a pale sage-green surface, shot from a low, close-up angle that makes the product feel large and inviting. A single fresh chamomile flower leans against the front of the box. Lighting is soft diffused natural light from the left, creating gentle shadows that give the scene an airy, organic, almost dreamy quality.",
+      "rationale": "The open-ended question disrupts the scroll and sparks intrigue, pulling in curious adults who haven't yet considered a natural sleep solution and nudging them toward discovery."
+    }
+  ],
+  "generatedImages": []
+}

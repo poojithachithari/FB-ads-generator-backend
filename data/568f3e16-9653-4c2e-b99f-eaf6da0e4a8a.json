@@ -1,0 +1,52 @@
+{
+  "id": "568f3e16-9653-4c2e-b99f-eaf6da0e4a8a",
+  "createdAt": "2026-06-26T14:20:49.232Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building",
+      "Soft",
+      "Playful"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_2fd5a8b3-440d-4fd8-b5ed-e0645422ec67.webp",
+  "productImageFilename": "product_2fd5a8b3-440d-4fd8-b5ed-e0645422ec67.webp",
+  "productImageFilenames": [
+    "product_2fd5a8b3-440d-4fd8-b5ed-e0645422ec67.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Problem-Solution",
+    "angle_rationale": "The split-panel Us-vs-Them format naturally positions coffee as the problem and Organica Tulsi Green Tea as the calm, healthier solution for people already considering a switch.",
+    "visual_description": "Split-panel flat-lay on a light neutral background: left panel has a cool light grey background featuring a plain generic white coffee mug or instant coffee tin to represent the old habit, right panel has a warm cream off-white background showcasing the Organica Tulsi Green Tea product packaging as the hero. Soft diffused studio lighting with no harsh shadows, muted grey and warm cream color palette with subtle green accents, both products centered at a slight three-quarter angle for clean product focus.",
+    "headlines": [
+      "Coffee vs. Tulsi Green Tea.",
+      "Still Doing Coffee? Try This.",
+      "Your Morning Deserves Better."
+    ],
+    "subheadlines": [
+      "No jitters. No crash. Just calm, clean energy from nature.",
+      "Steady energy all day. Zero anxiety. One simple swap.",
+      "Ancient tulsi wisdom. Modern calm. Ditch the coffee crash."
+    ],
+    "ctas": [
+      "Make the Switch",
+      "Try Organica Now",
+      "See the Difference"
+    ],
+    "checklist_items": [
+      "No jitters or crashes",
+      "Calm, steady energy",
+      "Naturally caffeine-balanced"
+    ]
+  }
+}

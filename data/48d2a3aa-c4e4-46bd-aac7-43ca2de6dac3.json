@@ -1,0 +1,46 @@
+{
+  "id": "48d2a3aa-c4e4-46bd-aac7-43ca2de6dac3",
+  "createdAt": "2026-06-11T19:31:34.916Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Simply Chamomile Tea",
+    "targetAudience": "Adults from age 20-50 having trouble sleeping",
+    "adGoal": "Conversions",
+    "toneOfVoice": "Trust-building",
+    "visualStyle": "Lifestyle photo",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_8fe27a67-e82c-4df1-b848-e4c3a7e2b30f.webp",
+  "productImageFilename": "product_8fe27a67-e82c-4df1-b848-e4c3a7e2b30f.webp",
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Problem-Solution",
+      "headline": "Still Awake at 2AM Again?",
+      "primary_text": "Organica Simply Chamomile Tea helps quiet a restless mind. One cup. Real sleep. Finally.",
+      "cta": "Shop Now",
+      "visual_description": "A dimly lit bedroom nightstand at 2AM showing a glowing alarm clock, an open book face-down, and the Organica Simply Chamomile Tea box/package placed front-and-center in warm amber candlelight. The mood is calm and intimate, with soft shadows and muted beige and cream tones suggesting the transition from restlessness to rest.",
+      "rationale": "Directly mirrors the audience's nightly frustration and positions the product as the immediate, accessible solution — driving high-intent clicks from sleep-deprived adults."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Transformation",
+      "headline": "From Restless to Refreshed",
+      "primary_text": "Wake up feeling like yourself again. Organica Simply Chamomile — pure, natural, and actually works.",
+      "cta": "Shop Now",
+      "visual_description": "A split-composition lifestyle image: the left side shows a rumpled, empty bed with grey cool-toned lighting suggesting a poor night, while the right side shows the same bed neatly made in warm golden morning sunlight with the Organica Simply Chamomile Tea package resting on the pillow as the hero prop. The contrast between tones is deliberate — cool grey versus soft sunrise gold.",
+      "rationale": "The before-and-after visual format taps into the audience's desired outcome, making the product feel like a proven turning point rather than just another sleep remedy."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Social Proof",
+      "headline": "14,000 Calmer Nights & Counting",
+      "primary_text": "\"I finally sleep through the night.\" — Real Organica customers. Try Simply Chamomile risk-free today.",
+      "cta": "Get Offer",
+      "visual_description": "A cozy kitchen counter scene bathed in warm evening light where a filled ceramic mug of golden chamomile tea steams gently beside the Organica Simply Chamomile Tea package, which is propped up and clearly label-forward. Surrounding the mug are subtle natural props — a sprig of dried chamomile flowers and a small honey dipper — on a light oak wooden surface, evoking authenticity and domestic warmth.",
+      "rationale": "Anchoring the creative in a large customer number combined with a real-feeling testimonial builds immediate trust with a skeptical audience that has likely tried other sleep solutions before."
+    }
+  ],
+  "generatedImages": []
+}

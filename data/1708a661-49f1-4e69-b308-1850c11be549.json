@@ -1,0 +1,57 @@
+{
+  "id": "1708a661-49f1-4e69-b308-1850c11be549",
+  "createdAt": "2026-06-23T15:24:39.978Z",
+  "brief": {
+    "brandName": "vitaroot",
+    "productOffer": "NAC 600mg",
+    "targetAudience": "Adults looking for antioxidant supplements",
+    "adGoal": "Traffic",
+    "toneOfVoice": [
+      "Trust-building"
+    ],
+    "visualStyle": [
+      "Text-heavy",
+      "Lifestyle photo"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_edb1ac4b-9f71-4517-af42-781231b819a3.webp",
+  "productImageFilename": "product_edb1ac4b-9f71-4517-af42-781231b819a3.webp",
+  "productImageFilenames": [
+    "product_edb1ac4b-9f71-4517-af42-781231b819a3.webp"
+  ],
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Urgency",
+      "headline": "Support your cells before it's too late.",
+      "primary_text": "NAC 600mg replenishes glutathione — your body's master antioxidant. First-order discount ends soon. 30-day money-back guarantee.",
+      "cta": "Get Offer",
+      "badge": "15% OFF",
+      "visual_description": "Vitaroot NAC 600mg bottle centered slightly below midframe on a clean white marble surface with soft grey veining, photographed from a near-top-down angle with a slight forward tilt to show the front label clearly. Soft diffused natural light from above-left casts a gentle grounding shadow beneath the product. The composition leaves generous open white space in the upper half for headline and subheadline text zones, with the discount badge floating to the upper-right of the product.",
+      "rationale": "Urgency paired with a time-limited discount badge and money-back guarantee directly matches the template's built-in conversion architecture while triggering the loss-aversion impulse in health-conscious adults who are already browsing antioxidant solutions."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Social Proof",
+      "headline": "50,000+ adults trust this antioxidant daily.",
+      "primary_text": "Vitaroot NAC 600mg is backed by thousands of verified reviews and a 30-day satisfaction guarantee. Your first order ships free.",
+      "cta": "Shop Now",
+      "badge": "50K+ Reviews",
+      "visual_description": "Vitaroot NAC 600mg bottle placed at the center of a pristine white marble background, angled slightly to show the full front label with branding visible and sharp. Clean overhead-to-slight-angle perspective with diffused soft light creating a premium, natural feel. Ample negative white space surrounds the product above and to the sides, providing clean zones for the headline, subheadline, and the circular social-proof badge floating upper-right.",
+      "rationale": "A large verified-user count is the most credible trust signal for skeptical supplement shoppers on a Traffic goal — the badge quantifies community trust at a glance and motivates the click without requiring a hard sell."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Problem-Solution",
+      "headline": "Low glutathione drains your energy reserves.",
+      "primary_text": "NAC 600mg is clinically recognized to restore glutathione levels. Try Vitaroot risk-free — save on your first order today.",
+      "cta": "Learn More",
+      "badge": "Clinically Backed",
+      "visual_description": "Vitaroot NAC 600mg bottle centered on a soft white marble surface, photographed from a slight elevated angle to display the label and product name fully. Gentle natural light from above-left creates soft highlights on the bottle cap and a subtle realistic shadow beneath, grounding the product. Clean open space is preserved above and around the bottle to accommodate the headline, subheadline copy, and the credibility badge positioned upper-right of the product.",
+      "rationale": "Naming the specific physiological problem — glutathione depletion and energy loss — speaks directly to the health-aware adult audience's lived experience and positions NAC 600mg as the evidence-based answer, driving curious clicks to learn more."
+    }
+  ],
+  "generatedImages": []
+}

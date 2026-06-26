@@ -1,0 +1,43 @@
+{
+  "id": "b3dae809-e646-4ee7-aff0-bca8a6a44678",
+  "createdAt": "2026-06-26T16:23:49.229Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "simple chamomile tea",
+    "targetAudience": "adults having sleeping issues",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building"
+    ],
+    "visualStyle": [],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_439d9b42-4f5e-4f5c-bfa9-50b0bf3288b5.webp",
+  "productImageFilename": "product_439d9b42-4f5e-4f5c-bfa9-50b0bf3288b5.webp",
+  "productImageFilenames": [
+    "product_439d9b42-4f5e-4f5c-bfa9-50b0bf3288b5.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Authority",
+    "angle_rationale": "Sleep-deprived adults need credible reassurance before purchasing, making expert-backed and clinically-grounded messaging far more persuasive than hype.",
+    "visual_description": "The Organica chamomile tea standup pouch is centered and slightly elevated on a dark rustic wooden surface, with scattered dried chamomile flowers and fine pale-gold powder dusted around its base. The background is a deep forest green with soft bokeh botanicals bleeding in from the left, evoking a calm, naturalistic apothecary mood. A warm directional spotlight from upper-right illuminates the pouch while the surrounding scene fades into rich, moody darkness.",
+    "headlines": [
+      "Sleep Better, Naturally Tonight",
+      "Trusted by 50,000 Light Sleepers",
+      "Your First Step to Real Rest"
+    ],
+    "subheadlines": [
+      "Clinician-recommended formula. 30-day satisfaction guarantee.",
+      "100% natural. No additives. Free returns on your first order.",
+      "Formulated by herbalists. Risk-free trial for new customers."
+    ],
+    "ctas": [
+      "Claim Your Offer",
+      "Shop Now",
+      "Try Risk-Free"
+    ]
+  }
+}

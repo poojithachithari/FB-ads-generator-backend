@@ -1,0 +1,25 @@
+{
+  "id": "0e02814e-6658-4a5e-b7ce-e414607da5e4",
+  "createdAt": "2026-06-25T18:19:06.134Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Playful"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_a61c8606-023b-4fb3-be0f-8a06c2718268.webp",
+  "productImageFilename": "product_a61c8606-023b-4fb3-be0f-8a06c2718268.webp",
+  "productImageFilenames": [
+    "product_a61c8606-023b-4fb3-be0f-8a06c2718268.webp"
+  ],
+  "concepts": [],
+  "generatedImages": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "24b86ac7-e005-4fde-b783-6bef79302a3e",
+  "createdAt": "2026-06-15T12:22:20.688Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "simple chamomile tea",
+    "targetAudience": "struggling with sleep",
+    "adGoal": "Awareness",
+    "toneOfVoice": "Playful",
+    "visualStyle": "Lifestyle photo",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_5ba3689f-3ce5-4a2c-9706-dcf6bd82c07d.webp",
+  "productImageFilename": "product_5ba3689f-3ce5-4a2c-9706-dcf6bd82c07d.webp",
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Problem-Solution",
+      "headline": "Still Awake at 2am? 🌙",
+      "primary_text": "Your brain said 'just one more thought.' Organica Chamomile said goodnight. 😴",
+      "cta": "Shop Now",
+      "visual_description": "A dimly lit bedroom nightstand at night with a warm amber glow from a small lamp. The Organica chamomile tea box sits front and centre beside a steaming ceramic mug, with rumpled white linen sheets softly blurred in the background. The mood is cosy and intimate, shot from a slight top-down angle to highlight the product label clearly.",
+      "rationale": "Directly mirrors the audience's lived frustration with sleeplessness and immediately positions the product as the playful, low-effort fix — perfect for cold awareness traffic."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Transformation",
+      "headline": "From Wired to Wonderfully Tired",
+      "primary_text": "One cup of Organica Chamomile and your 3am spiral becomes a 10pm snooze. ✨",
+      "cta": "Learn More",
+      "visual_description": "A split-scene lifestyle flat lay on a soft sage-green linen surface: on the left, a chaotic cluster of a phone, earbuds, and scrunched sticky notes symbolising stress; on the right, the Organica chamomile tea box placed next to a delicate dried chamomile flower sprig and a calm, empty mug — bright natural morning light floods the right half, creating a clear visual before-and-after contrast.",
+      "rationale": "The visual transformation narrative makes the benefit instantly tangible for sleep-deprived audiences scrolling at awareness stage, without needing a single word of explanation."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Curiosity",
+      "headline": "The 5-Minute Bedtime Ritual 🌼",
+      "primary_text": "Thousands swapped their doom-scroll for this. One ingredient. Zero sheep counting.",
+      "cta": "Learn More",
+      "visual_description": "A close-up lifestyle shot of two hands wrapping around a large, handmade-style ceramic mug filled with golden chamomile tea, with the Organica chamomile tea box resting casually on its side in the soft-focus foreground. The setting is a cosy window ledge at dusk, bathed in warm peach and lavender tones from the fading sky outside, creating a dreamy, almost cinematic mood.",
+      "rationale": "The curiosity angle teases a simple ritual without revealing it, compelling sleep-struggling audiences to stop scrolling and investigate — ideal for driving awareness-stage engagement."
+    }
+  ],
+  "generatedImages": []
+}

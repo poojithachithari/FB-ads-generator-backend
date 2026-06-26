@@ -1,0 +1,45 @@
+{
+  "id": "615a591e-8a97-4545-a79d-73b6e7cbc0ac",
+  "createdAt": "2026-06-24T17:33:01.004Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_e2e0a307-c4ba-4cdd-829b-fe7d61325d8c.webp",
+  "productImageFilename": "product_e2e0a307-c4ba-4cdd-829b-fe7d61325d8c.webp",
+  "productImageFilenames": [
+    "product_e2e0a307-c4ba-4cdd-829b-fe7d61325d8c.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Authority",
+    "angle_rationale": "Coffee switchers need reassurance that they won't lose energy or ritual — leading with Tulsi's Ayurvedic heritage and measurable benefits builds the credibility needed to overcome that hesitation and drive purchase.",
+    "visual_description": "A clean, softly lit flat-lay on a pale stone surface features the Organica Tulsi Green Tea product box placed as the clear hero in the center-right of the frame. A small ceramic cup of steaming pale green tea rests beside it, with a few loose dried tulsi leaves and one sprig of fresh holy basil scattered naturally around the base of the box. Warm diffused morning window light falls from the upper left, casting soft shadows that give the composition a calm, premium wellness editorial feel.",
+    "headlines": [
+      "Ayurveda-Backed Energy Boost",
+      "87% Felt Calmer. Still Alert.",
+      "Ditch Coffee Jitters. Not Focus."
+    ],
+    "subheadlines": [
+      "Tulsi Green Tea delivers steady, clean energy — trusted in Ayurveda for over 3,000 years.",
+      "Organica Tulsi Green Tea gives you calm focus without the crash or the dependency.",
+      "Clinically studied adaptogens in every cup — designed for the coffee drinker ready for better."
+    ],
+    "ctas": [
+      "Try It Today",
+      "Make the Switch",
+      "Shop Now"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "a3f29e79-031d-4e2a-9ea8-fd0f6711745e",
+  "createdAt": "2026-06-22T15:55:37.165Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Simple chamomile tea",
+    "targetAudience": "Adults from 20-55 having sleeping problems",
+    "adGoal": "Awareness",
+    "toneOfVoice": "Playful",
+    "visualStyle": "Bold graphic",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_ab031a3a-d462-4388-b811-d29375d28292.webp",
+  "productImageFilename": "product_ab031a3a-d462-4388-b811-d29375d28292.webp",
+  "productImageFilenames": [
+    "product_ab031a3a-d462-4388-b811-d29375d28292.webp"
+  ],
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Problem-Solution",
+      "headline": "3am Again? Yeah, We See You.",
+      "primary_text": "Your brain at 2am: *replays 2015 embarrassing moment*. Organica chamomile tea: hey, let's chill instead. 🌼",
+      "cta": "Learn More",
+      "visual_description": "Bold flat-graphic vertical poster split into two halves. Top half: deep navy blue background with a chaotic white scribble brain illustration surrounded by jagged yellow lightning bolts and tiny floating alarm clock icons — frantic, wide-awake energy. Bottom half: a warm golden-yellow panel with the Organica chamomile tea box centered, large and hero-scale, flanked by two oversized flat graphic chamomile flower illustrations in cream and orange. Clean sans-serif typography zones above and below the product. High-contrast, almost comic-book flat colouring with zero gradients and thick black outlines on all illustrated elements.",
+      "rationale": "Directly mirrors the 2am overthinking experience that sleep-deprived 20–55 year olds instantly recognise, using playful humour to make the problem feel relatable rather than clinical — perfect for building brand awareness through emotional identification."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Curiosity",
+      "headline": "What Did People Sip Pre-Melatonin?",
+      "primary_text": "Spoiler: it was chamomile. Turns out grandma was onto something. Organica keeps it simple and it works. 🌿",
+      "cta": "Learn More",
+      "visual_description": "Retro-meets-modern bold graphic poster with a vivid terracotta orange background and a large central circular medallion in cream white, styled like a vintage apothecary stamp or old botanical label. Inside the medallion, the Organica chamomile tea box sits upright and prominent, surrounded by symmetrical flat illustrated chamomile sprigs in forest green and golden yellow. Outside the medallion, the background is dotted with small repeating flat chamomile icons in a pattern reminiscent of vintage wallpaper. The overall palette is terracotta, cream, forest green, and gold — bold and graphic with a heritage poster aesthetic and zero photographic elements.",
+      "rationale": "A curiosity angle that reframes chamomile as a rediscovered sleep secret sparks intrigue without hard-selling, making it ideal for awareness-stage audiences who need a reason to pay attention to a simple, familiar product."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Transformation",
+      "headline": "From Counting Sheep to Actually Sleeping",
+      "primary_text": "One cup of Organica chamomile and suddenly your pillow feels like a cloud. No sheep required. 🐑☕",
+      "cta": "Learn More",
+      "visual_description": "Striking split-screen bold graphic composition in landscape or square format. Left panel: a bright electric blue background with a flat illustrated cartoon sheep in white and black mid-jump over a minimalist fence, repeated in a looping stacked pattern — playful and chaotic. Right panel: a deep warm plum-purple background with a single oversized flat crescent moon in soft yellow at the top and the Organica chamomile tea box placed front and center below it, large and boldly lit with a clean drop shadow, flanked by tiny illustrated star shapes scattered around. A thick geometric zigzag border divides the two panels in neon yellow, visually representing the shift from restless to restful. Flat graphic design, saturated colour blocking, zero photography.",
+      "rationale": "The before-and-after transformation arc is instantly legible in a scrolling feed, and framing it through sheep-counting humour makes the sleep struggle feel light rather than frustrating — building warm brand recognition with the target audience."
+    }
+  ],
+  "generatedImages": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "d4930577-26b8-4a17-ae59-351d6006bb64",
+  "createdAt": "2026-06-15T11:48:22.233Z",
+  "brief": {
+    "brandName": "VitaRoot",
+    "productOffer": "GABA 600 mg",
+    "targetAudience": "Adults Looking for Supplements to relax",
+    "adGoal": "Traffic",
+    "toneOfVoice": "Bold",
+    "visualStyle": "Lifestyle photo",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_659251db-3b34-4258-b57b-b7c43fb97b13.webp",
+  "productImageFilename": "product_659251db-3b34-4258-b57b-b7c43fb97b13.webp",
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Problem-Solution",
+      "headline": "Can't Switch Off At Night?",
+      "primary_text": "Racing thoughts keeping you up? VitaRoot GABA 600mg helps your mind finally let go. Calm starts here.",
+      "cta": "Shop Now",
+      "visual_description": "Split-composition lifestyle photo: left half shows a dimly lit bedroom with rumpled sheets and a clock reading 2:14 AM, conveying restlessness. Right half shows the same nightstand bathed in warm amber light with the VitaRoot GABA 600mg bottle standing upright beside a glass of water and a small potted lavender plant, signaling calm and resolution. Deep navy and warm gold color palette, soft candlelight-style lighting.",
+      "rationale": "Directly mirrors the audience's lived pain point of sleepless, anxious nights and positions the product as the immediate solution, driving high-intent clicks."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Transformation",
+      "headline": "From Wired to Unwound Daily",
+      "primary_text": "One capsule. 600mg of pure GABA. The supplement high-performers use to decompress without the drowsiness.",
+      "cta": "Learn More",
+      "visual_description": "Overhead flat-lay on a raw linen surface: the VitaRoot GABA 600mg bottle is centered and slightly angled, surrounded by intentionally arranged props — a worn leather journal, a steaming ceramic mug of herbal tea, and two white GABA capsules placed beside the bottle cap. Muted earth tones with sage green and cream accents, bright diffused natural window light casting soft shadows. Clean, editorial, aspirational mood.",
+      "rationale": "The transformation angle appeals to goal-driven adults who want a proactive, daily ritual for stress management, building brand desirability beyond just a quick fix."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Social Proof",
+      "headline": "50,000 Calm Days & Counting",
+      "primary_text": "\"I finally feel like myself again after work.\" — Real VitaRoot customer. Try GABA 600mg risk-free today.",
+      "cta": "Get Offer",
+      "visual_description": "Lifestyle photo set on a sunlit apartment balcony during golden hour: the VitaRoot GABA 600mg bottle sits on a weathered wooden railing in sharp focus in the foreground, while a blurred figure in a neutral linen outfit reclines in a chair with eyes closed in the background, conveying deep relaxation. Warm orange and dusty beige tones flood the scene. A subtle star-rating graphic overlay (5 stars) sits in the upper corner of the image.",
+      "rationale": "Combining a bold customer milestone with a real quote builds instant trust and reduces purchase hesitation for cold-traffic audiences who need social validation before clicking."
+    }
+  ],
+  "generatedImages": []
+}

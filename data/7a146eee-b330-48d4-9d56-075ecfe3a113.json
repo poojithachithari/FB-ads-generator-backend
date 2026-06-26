@@ -1,0 +1,45 @@
+{
+  "id": "7a146eee-b330-48d4-9d56-075ecfe3a113",
+  "createdAt": "2026-06-24T16:01:39.461Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Simple chamomile tea",
+    "targetAudience": "adults with sleeping problems",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building"
+    ],
+    "visualStyle": [
+      "Lifestyle photo"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_e93cdbc9-8f4d-4094-86b8-dc52be8f8fb7.webp",
+  "productImageFilename": "product_e93cdbc9-8f4d-4094-86b8-dc52be8f8fb7.webp",
+  "productImageFilenames": [
+    "product_e93cdbc9-8f4d-4094-86b8-dc52be8f8fb7.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Problem-Solution",
+    "angle_rationale": "Adults with chronic sleep issues are skeptical of quick fixes, so leading with their exact problem and positioning chamomile tea as a trusted, natural remedy earns the click-to-purchase better than hype.",
+    "visual_description": "A woman in her mid-30s sits propped against soft white pillows in a dimly lit bedroom, cradling a warm mug of Organica chamomile tea with both hands, eyes softly closed in quiet relief. The Organica chamomile tea box rests on the bedside table in clear view, alongside a small reading lamp casting a warm amber glow across the linen duvet. The scene is shot in natural low-light with a shallow depth of field, giving it an intimate, authentic feel — no studio polish, just a real late-night wind-down moment.",
+    "headlines": [
+      "Nature's Answer to Sleepless Nights",
+      "73% Sleep Better With Chamomile",
+      "Trusted by Sleep Experts Since 1998"
+    ],
+    "subheadlines": [
+      "Organica chamomile is clinically studied to reduce sleep onset time — no pills, no dependency, just calm.",
+      "If you're still staring at the ceiling at 2am, your body may be missing this one simple ritual.",
+      "Over 50,000 adults chose Organica to reclaim restful nights — without a prescription."
+    ],
+    "ctas": [
+      "Sleep Better Tonight",
+      "Try Organica Now",
+      "Get Yours Today"
+    ]
+  }
+}

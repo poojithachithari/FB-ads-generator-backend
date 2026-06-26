@@ -1,0 +1,47 @@
+{
+  "id": "d47d6a22-28b6-4403-b899-4197f359c51a",
+  "createdAt": "2026-06-15T15:53:03.392Z",
+  "brief": {
+    "brandName": "bkjxfxgf",
+    "productOffer": "vjojovhhtyvhh",
+    "targetAudience": "afgyhbk",
+    "adGoal": "Conversions",
+    "toneOfVoice": "Playful",
+    "visualStyle": "Lifestyle photo",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": null,
+  "productImageFilename": null,
+  "productImageFilenames": [],
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Social Proof",
+      "headline": "afgyhbk Can't Stop Talking 👀",
+      "primary_text": "Turns out vjojovhhtyvhh is exactly what afgyhbk needed. Don't just take our word for it — take theirs.",
+      "cta": "Shop Now",
+      "visual_description": "A warm, naturally lit candid lifestyle photo of a person from the afgyhbk audience using vjojovhhtyvhh in an everyday real-world setting, smiling genuinely at a friend off-camera. Soft golden-hour window light fills the scene with a relaxed, authentic mood. Loose handheld framing, shallow depth of field, muted warm tones.",
+      "rationale": "Social proof directly overcomes purchase hesitation for a conversions goal by showing real peer validation to an audience that trusts word-of-mouth over brand claims."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Problem-Solution",
+      "headline": "Yeah, We Fixed That 🙌",
+      "primary_text": "Tired of the same old afgyhbk struggle? vjojovhhtyvhh showed up and sorted it out. You're welcome.",
+      "cta": "Shop Now",
+      "visual_description": "A split-mood lifestyle photo: the left side hints at a relatable everyday frustration through a slightly cluttered or imperfect environment, while the right side shows the same person relaxed and at ease with vjojovhhtyvhh naturally in hand. Bright, clean natural daylight on the right side creates a visual sigh-of-relief contrast. Eye-level framing, warm neutral tones, lived-in setting.",
+      "rationale": "Problem-Solution is a high-converting angle for a conversions goal because it names the exact pain afgyhbk feels and positions vjojovhhtyvhh as the obvious, immediate answer."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "FOMO",
+      "headline": "Everyone's Got One. Do You? 😏",
+      "primary_text": "afgyhbk has officially discovered vjojovhhtyvhh — and honestly, the longer you wait, the more you're missing out.",
+      "cta": "Get Offer",
+      "visual_description": "A lively, candid lifestyle group shot of two or three people from the afgyhbk demographic enjoying vjojovhhtyvhh together in a fun, casual real-world environment — laughing, gesturing, fully absorbed in the moment. Bright, airy natural light with a slightly warm color grade. Wide-ish framing to capture the social energy, product visible but integrated naturally into the scene.",
+      "rationale": "FOMO triggers urgency and social desire simultaneously, making it highly effective for driving immediate purchase decisions among an audience that is already aware but on the fence."
+    }
+  ],
+  "generatedImages": []
+}

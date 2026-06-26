@@ -1,0 +1,53 @@
+{
+  "id": "739146ec-81ed-4c65-b1fc-0d7982163e6f",
+  "createdAt": "2026-06-26T13:46:06.718Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building",
+      "Soft"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_f294fb10-48a0-4039-9873-772a858cd877.webp",
+  "productImageFilename": "product_f294fb10-48a0-4039-9873-772a858cd877.webp",
+  "productImageFilenames": [
+    "product_f294fb10-48a0-4039-9873-772a858cd877.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Problem-Solution",
+    "angle_rationale": "Coffee switchers have specific anxieties — jitters, energy crashes, and giving up a beloved ritual — so directly addressing those pain points and positioning Tulsi Green Tea as the calm, credible solution drives the highest purchase confidence.",
+    "visual_description": "The uploaded Organica Tulsi Green Tea pouch stands upright at a slight forward angle on the left half of the frame, photographed against a soft sage-to-mint green gradient background that brightens toward the center. A gentle natural-style light source creates a subtle drop shadow beneath the product, giving it a grounded, editorial feel. The product label faces forward fully, ensuring all branding and text remain clearly legible, with no props or lifestyle elements competing for attention.",
+    "headlines": [
+      "Your Calm Coffee Alternative.",
+      "Ditch the Jitters. Not the Ritual.",
+      "Feel Good, Sip by Sip."
+    ],
+    "subheadlines": [
+      "Organica Tulsi Green Tea gives you steady, clean energy — no crash, no anxiety, no regrets.",
+      "Gentle, grounding, and naturally energising — crafted for people ready to leave coffee behind.",
+      "Thousands have already made the switch. Tulsi Green Tea makes it easy to stay switched."
+    ],
+    "ctas": [
+      "Try It Now",
+      "Make The Switch",
+      "Shop Tulsi Tea"
+    ],
+    "checklist_items": [
+      "No caffeine crash",
+      "Calms jitters naturally",
+      "Steady, clean energy",
+      "No artificial additives",
+      "Ritual you will love"
+    ]
+  }
+}

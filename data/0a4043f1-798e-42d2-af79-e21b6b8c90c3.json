@@ -1,0 +1,50 @@
+{
+  "id": "0a4043f1-798e-42d2-af79-e21b6b8c90c3",
+  "createdAt": "2026-06-15T15:19:23.138Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "simple chamomile tea at 50% off",
+    "targetAudience": "Adults struggling with sleep",
+    "adGoal": "Traffic",
+    "toneOfVoice": "Playful",
+    "visualStyle": "Lifestyle photo",
+    "imageSize": "16:9",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_e037e0ea-c6df-4563-99ce-12eb85b521a2.webp",
+  "productImageFilename": "product_e037e0ea-c6df-4563-99ce-12eb85b521a2.webp",
+  "productImageFilenames": [
+    "product_e037e0ea-c6df-4563-99ce-12eb85b521a2.webp"
+  ],
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Problem-Solution",
+      "headline": "Tired of Counting Sheep? 🐑",
+      "primary_text": "Your 3am ceiling-staring habit ends tonight. Organica Chamomile Tea — now 50% off. 😴",
+      "cta": "Shop Now",
+      "visual_description": "The Organica chamomile tea product is placed on a rustic wooden nightstand beside a softly glowing amber lamp, a tousled white linen bed visible in the blurred background. Warm, golden-hour lighting creates a cosy, sleepy mood. A single dried chamomile flower rests casually next to the bottle, grounding the natural product story.",
+      "rationale": "Directly mirrors the audience's nightly frustration and immediately positions the product as the playful, easy fix — driving curious clicks from sleep-deprived adults."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Urgency",
+      "headline": "50% Off Ends Soon — Sleep Wins!",
+      "primary_text": "Don't snooze on this deal (but do snooze tonight). Organica Chamomile Tea at half price. ⏰",
+      "cta": "Get Offer",
+      "visual_description": "A flat-lay top-down shot of the Organica chamomile tea bottle centred on a pale sage-green linen surface, surrounded by a scattered ring of loose dried chamomile flowers and a small hourglass prop tilted on its side. Cool, bright natural daylight with soft shadows adds a clean, editorial freshness. A small handwritten-style '50% OFF' tag leans against the bottle for tactile authenticity.",
+      "rationale": "The time-limited framing combined with a self-aware playful pun creates just enough pressure to convert traffic-stage browsers who are already curious about sleep solutions."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Transformation",
+      "headline": "From Wired to Dreamy in One Cup",
+      "primary_text": "Meet your new bedtime ritual. Organica Simple Chamomile Tea — simple, calm, 50% off tonight. 🌼",
+      "cta": "Shop Now",
+      "visual_description": "The Organica chamomile tea product is held loosely in two cupped hands over a chunky ceramic mug steaming gently, set against a deep navy-blue moody background that evokes a quiet late-night kitchen. Soft candlelight from the left casts a warm honeyed glow across the bottle label and steam. The overall mood is intimate and aspirational — the 'after' moment of a perfectly calm evening.",
+      "rationale": "Painting the aspirational 'after' moment of restful calm lets sleep-struggling adults emotionally project themselves into the scene, making the 50% off offer feel like an easy, rewarding next step."
+    }
+  ],
+  "generatedImages": []
+}

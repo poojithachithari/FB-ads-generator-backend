@@ -1,0 +1,44 @@
+{
+  "id": "d935cadd-b1a7-4384-97e6-247229e519fa",
+  "createdAt": "2026-06-26T16:40:20.576Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "simple chamomile tea",
+    "targetAudience": "adults having sleeping issues",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building"
+    ],
+    "visualStyle": [],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_5d0f6066-5f0e-4b55-b3de-e3750e11a1ca.webp",
+  "productImageFilename": "product_5d0f6066-5f0e-4b55-b3de-e3750e11a1ca.webp",
+  "productImageFilenames": [
+    "product_5d0f6066-5f0e-4b55-b3de-e3750e11a1ca.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Social Proof",
+    "angle_rationale": "Adults with sleep issues are skeptical of new remedies, so leading with verified review volume and star ratings removes doubt and drives trust-based conversions faster than any other angle.",
+    "visual_description": "Deep forest green solid background (#1a4a2e) with a soft warm radial spotlight glow emanating from beneath the product, creating a subtle vignette that draws the eye to the center. The organica chamomile tea pouch stands upright in the lower-center of the frame, its warm beige and tan packaging with bold green branding rendered with clean, premium detail. The overall aesthetic is minimal, flat, and authoritative — no lifestyle imagery, purely a polished digital brand graphic with a calm, natural mood.",
+    "headlines": [
+      "50,000+ Restful Nights Served.",
+      "The Sleep Tea Everyone Trusts.",
+      "Rated No.1 For Deep Sleep."
+    ],
+    "subheadlines": [
+      "Thousands switched from sleep aids to Organica Chamomile — and finally woke up feeling rested.",
+      "Real adults with real sleep struggles found their answer in one simple, natural cup every night.",
+      "From restless nights to 8-hour sleep — over 50,000 customers made the switch to Organica."
+    ],
+    "ctas": [
+      "Join Them Tonight",
+      "Shop Now",
+      "Try It Today"
+    ],
+    "rating_text": "★★★★★ 50,000+ Reviews"
+  }
+}

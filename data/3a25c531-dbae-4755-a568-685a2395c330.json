@@ -1,0 +1,45 @@
+{
+  "id": "3a25c531-dbae-4755-a568-685a2395c330",
+  "createdAt": "2026-06-24T17:17:48.658Z",
+  "brief": {
+    "brandName": "organica ",
+    "productOffer": "Tulsi Green Tea ",
+    "targetAudience": "Adults who want replace coffee with healthy green teas",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Bold"
+    ],
+    "visualStyle": [
+      "Bold graphic"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_ac9f6715-c6ab-4ec4-b281-6f08f938c09a.webp",
+  "productImageFilename": "product_ac9f6715-c6ab-4ec4-b281-6f08f938c09a.webp",
+  "productImageFilenames": [
+    "product_ac9f6715-c6ab-4ec4-b281-6f08f938c09a.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Authority",
+    "angle_rationale": "Coffee-to-tea switchers need expert validation to trust a new daily ritual — an authority frame from a credentialed source removes the 'but is it actually good?' objection instantly.",
+    "visual_description": "The Organica Tulsi Green Tea box is placed upright and centered on a loosely draped natural linen textile, shot against a warm off-white matte background with no distracting texture. Lighting is soft and diffused from the upper-left, casting a subtle directional shadow that adds depth without harshness, keeping the product packaging fully legible and crisp. A small dried tulsi or herb sprig rests to the left of the box and a loosely rolled linen napkin sits to the right, reinforcing a clean, organic, health-conscious editorial mood.",
+    "headlines": [
+      "The smarter coffee replacement",
+      "Ditch coffee. Upgrade your morning",
+      "Your new morning ritual starts here"
+    ],
+    "subheadlines": [
+      "Nutritionist-endorsed Tulsi Green Tea delivers calm energy — without the crash or the jitters.",
+      "Backed by Ayurvedic tradition and reviewed by wellness experts. Real energy. Zero anxiety.",
+      "Dietitian-approved and stress-tested. Organica Tulsi gives you focus coffee never could."
+    ],
+    "ctas": [
+      "Read the full review",
+      "See why experts love it",
+      "Get yours today"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "317403e9-4aa3-4480-98db-a88bc5f535f2",
+  "createdAt": "2026-06-25T17:03:14.186Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "People who want to switch from coffee",
+    "adGoal": "Traffic",
+    "toneOfVoice": [
+      "Playful"
+    ],
+    "visualStyle": [],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_8e844cb8-8b4d-4eb8-b20d-cdea390bebb0.webp",
+  "productImageFilename": "product_8e844cb8-8b4d-4eb8-b20d-cdea390bebb0.webp",
+  "productImageFilenames": [
+    "product_8e844cb8-8b4d-4eb8-b20d-cdea390bebb0.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Authority",
+    "angle_rationale": "The superlative headline format combined with a clean clinical studio shot and social proof rating positions Organica Tulsi Green Tea as the definitive upgrade for coffee switchers.",
+    "visual_description": "A single standup pouch bag of Organica Tulsi Green Tea is centered in frame against a soft gradient background transitioning from muted sage green at the top to near-white cream at the bottom. Lighting is soft and diffused with a gentle drop shadow beneath the product, giving it a clean floating-on-surface feel. The product is photographed at a very slight 3/4 angle, essentially front-facing, with a flat depth of field and everything sharp — no bokeh, no props, purely the hero product.",
+    "headlines": [
+      "The World's Calmest Morning Brew",
+      "The World's Smartest Coffee Swap",
+      "The World's Most Soothing Green Tea"
+    ],
+    "subheadlines": [
+      "Pure Tulsi Green Tea — no jitters, no crash, no regrets.",
+      "Real Tulsi, real calm — no artificial flavours, no caffeine crash, no guilt.",
+      "Organica Tulsi Green Tea: no bitterness, no additives, no looking back."
+    ],
+    "ctas": [
+      "Shop Organica",
+      "Try It Now",
+      "Make The Switch"
+    ],
+    "rating_text": "★★★★★ 500+ Happy Customers"
+  }
+}

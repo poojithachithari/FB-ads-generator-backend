@@ -1,0 +1,46 @@
+{
+  "id": "cd9ff262-b229-47da-b892-58bc7b78ea21",
+  "createdAt": "2026-06-15T11:29:50.985Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Simple chamomile tea",
+    "targetAudience": "Adult 20-55 having trouble sleeping",
+    "adGoal": "Conversions",
+    "toneOfVoice": "Trust-building",
+    "visualStyle": "Lifestyle photo",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_f5ec35ce-530f-4420-b4e7-9edde813ae6d.webp",
+  "productImageFilename": "product_f5ec35ce-530f-4420-b4e7-9edde813ae6d.webp",
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Problem-Solution",
+      "headline": "Finally Sleep Through the Night",
+      "primary_text": "Tossing at 2am again? Organica Chamomile Tea calms your mind so you wake up actually rested.",
+      "cta": "Shop Now",
+      "visual_description": "A dimly lit, cosy bedroom nightstand scene shot from a slight overhead angle. The Organica chamomile tea box/package sits beside a steaming white ceramic mug on a dark walnut wood surface. Warm amber candlelight and a soft bedside lamp create a golden glow, with blurred white linen bedding visible in the background, evoking immediate calm and relief.",
+      "rationale": "Directly mirrors the audience's nightly frustration and positions Organica as the specific, simple fix — driving high purchase intent among sleep-deprived adults."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Social Proof",
+      "headline": "47,000 Sleepers Can't Be Wrong",
+      "primary_text": "⭐⭐⭐⭐⭐ 'First full night's sleep in months.' Real reviews. Real chamomile. Real results.",
+      "cta": "Shop Now",
+      "visual_description": "A flat-lay composition on a cool linen-textured cream surface, with the Organica chamomile tea package as the centrepiece. Surrounding it are loose dried chamomile flowers scattered naturally, a small printed 5-star review card, and a white mug with soft steam rising. Bright, airy natural daylight with soft shadows creates a clean, trustworthy editorial feel.",
+      "rationale": "Leveraging peer validation removes purchase hesitation for sceptical adults who have tried other sleep remedies and failed, building instant trust through numbers and real quotes."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Transformation",
+      "headline": "From Exhausted to Well-Rested",
+      "primary_text": "One cup before bed. Wake up refreshed. Organica's pure chamomile makes your nights — and mornings — better.",
+      "cta": "Get Offer",
+      "visual_description": "A split-mood lifestyle scene: the left third shows a moody, blue-toned close-up of tired eyes and a clock reading 3:00am, while the right two-thirds transitions into warm, golden morning light with a well-rested person's hands wrapped around a mug and the Organica chamomile package prominently positioned on a sunlit kitchen counter beside fresh chamomile sprigs. The colour temperature shift from cold blue to warm gold visually tells the before-and-after story.",
+      "rationale": "The visual transformation from sleepless night to energised morning creates an aspirational emotional pull that motivates conversions by letting the audience see themselves as the success story."
+    }
+  ],
+  "generatedImages": []
+}

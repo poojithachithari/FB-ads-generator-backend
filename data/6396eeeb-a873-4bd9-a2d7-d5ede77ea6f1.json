@@ -1,0 +1,46 @@
+{
+  "id": "6396eeeb-a873-4bd9-a2d7-d5ede77ea6f1",
+  "createdAt": "2026-06-12T15:27:37.745Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Simple chamomile tea ",
+    "targetAudience": "Adults from 20-55 having trouble sleeping ",
+    "adGoal": "Conversions",
+    "toneOfVoice": "Trust-building",
+    "visualStyle": "Lifestyle photo",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_fd9d55fe-9920-4a38-bb3d-fcfff75fbc1b.webp",
+  "productImageFilename": "product_fd9d55fe-9920-4a38-bb3d-fcfff75fbc1b.webp",
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Problem-Solution",
+      "headline": "Still Awake at 2AM Again?",
+      "primary_text": "Organica Chamomile Tea helps quiet a restless mind. One cup. Real sleep. Finally.",
+      "cta": "Shop Now",
+      "visual_description": "Dimly lit bedroom at night, a bedside table with a soft warm lamp casting a golden glow. The Organica chamomile tea box/product sits prominently in the foreground beside a steaming ceramic mug, with rumpled white linen sheets slightly blurred in the background. The mood is calm and intimate, with amber and ivory tones suggesting transition from restlessness to rest.",
+      "rationale": "Directly mirrors the audience's lived frustration — sleeplessness at night — then positions the product as the immediate, tangible solution, driving high-intent clicks to purchase."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Social Proof",
+      "headline": "14,000 Better Nights Served",
+      "primary_text": "\"I finally sleep through the night.\" – Real Organica customers. Join thousands who swapped pills for chamomile.",
+      "cta": "Get Offer",
+      "visual_description": "A flat-lay shot on a warm cream linen surface, the Organica chamomile product placed centrally with dried chamomile flowers scattered naturally around it. A handwritten-style note card leaning against the product reads a short customer quote. Soft diffused natural daylight from the left creates gentle shadows, giving the scene an honest, artisan feel with muted greens and ivory tones.",
+      "rationale": "Social proof reduces purchase hesitation for skeptical adults who have tried other sleep remedies — anchoring trust through peer validation before the CTA."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Transformation",
+      "headline": "From Exhausted to Rested — Tonight",
+      "primary_text": "One simple ritual before bed. Organica Chamomile Tea. Wake up feeling like yourself again.",
+      "cta": "Shop Now",
+      "visual_description": "A split-mood lifestyle composition: a person's hands — relaxed, wrapped around a steaming mug — with the Organica chamomile product placed on a wooden tray beside it, next to an open book and a sprig of fresh chamomile. The scene is set near a frosted window at dusk, soft blue-grey ambient light outside contrasting with the warm candlelit glow inside, conveying the peaceful transition from a stressful day into a calming evening ritual.",
+      "rationale": "Transformation framing sells the emotional outcome — restored energy and calm — rather than the product itself, which resonates deeply with a tired 20–55 audience seeking identity-level change."
+    }
+  ],
+  "generatedImages": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "8f45b0ea-4e80-49f8-9bb9-e388438fc076",
+  "createdAt": "2026-06-25T18:03:01.847Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Playful"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_02942024-9b81-48ca-8149-343c53000f5a.webp",
+  "productImageFilename": "product_02942024-9b81-48ca-8149-343c53000f5a.webp",
+  "productImageFilenames": [
+    "product_02942024-9b81-48ca-8149-343c53000f5a.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Problem-Solution",
+    "angle_rationale": "Coffee switchers have a specific pain point — jitters, crashes, dependency — and Tulsi Green Tea positions itself as the smarter, calmer alternative, making Problem-Solution the most persuasive angle for driving conversions.",
+    "visual_description": "Organica's Tulsi Green Tea stand-up pouch centered on a pristine white marble surface with soft natural lighting casting a gentle shadow beneath the product. The earthy cream packaging and fresh green branding accents pop cleanly against the cool marble, conveying a premium health-conscious aesthetic. Minimal overhead composition with the entire product in sharp focus — no props, no clutter, just the product.",
+    "headlines": [
+      "Ditch The Jitters. Sip This.",
+      "Your Coffee's Calmer Cousin.",
+      "Green Tea That Gets You Going"
+    ],
+    "subheadlines": [
+      "Save 10% today — your crash-free mornings are one cup away.",
+      "No jitters. No crash. Just calm energy — try it risk-free at 10% off.",
+      "Switch smarter: get 10% off your first bag, no strings attached."
+    ],
+    "ctas": [
+      "Grab My Bag",
+      "Start Sipping",
+      "Claim 10% Off"
+    ]
+  }
+}

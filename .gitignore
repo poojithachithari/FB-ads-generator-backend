@@ -1,0 +1,19 @@
+# Environment — never commit real keys
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Runtime data (uploads & generated output)
+uploads/
+generated/
+brand-images/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db

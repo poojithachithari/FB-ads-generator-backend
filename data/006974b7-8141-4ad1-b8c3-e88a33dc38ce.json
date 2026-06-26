@@ -1,0 +1,48 @@
+{
+  "id": "006974b7-8141-4ad1-b8c3-e88a33dc38ce",
+  "createdAt": "2026-06-26T16:09:53.186Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "simple chamomile tea",
+    "targetAudience": "adults having sleeping issues",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building"
+    ],
+    "visualStyle": [],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_bc05bfee-640f-40a6-a7a7-9db6523d63d6.webp",
+  "productImageFilename": "product_bc05bfee-640f-40a6-a7a7-9db6523d63d6.webp",
+  "productImageFilenames": [
+    "product_bc05bfee-640f-40a6-a7a7-9db6523d63d6.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Social Proof",
+    "angle_rationale": "The testimonial card template is purpose-built for peer validation, and sleep-anxious adults trust verified customer outcomes more than brand claims alone.",
+    "visual_description": "A clean flat-design layout on a soft sage green background with a large centered white rounded-corner card. The organica chamomile tea pouch is positioned partially overlapping the bottom-right edge of the card, creating a layered 3D product reveal. The muted palette of sage, white, and deep forest green gives the composition a calm, modern wellness brand feel.",
+    "headlines": [
+      "She Finally Slept Through",
+      "He Tried Every Sleep Remedy",
+      "She Stopped Counting Sheep"
+    ],
+    "subheadlines": [
+      "93% of organica chamomile drinkers report better sleep quality within 7 nights.",
+      "Clinically studied chamomile — trusted by thousands of adults with restless nights.",
+      "One cup before bed. Backed by real results and a 30-day satisfaction guarantee."
+    ],
+    "ctas": [
+      "Read Her Story",
+      "See Their Results",
+      "Read His Story"
+    ],
+    "testimonial": {
+      "quote": "I slept 7 hours straight — first time in two years.",
+      "attribution": "Verified organica customer",
+      "stars": 5
+    }
+  }
+}

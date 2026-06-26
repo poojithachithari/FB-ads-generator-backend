@@ -1,0 +1,23 @@
+{
+  "id": "763df6ec-a8b6-4cd4-88a4-7d56685247d5",
+  "createdAt": "2026-06-26T17:23:04.825Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "simple chamomile tea",
+    "targetAudience": "adults having sleeping issues",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building"
+    ],
+    "visualStyle": [],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_2c7ff8ee-0d5c-4b47-a4f7-bb379d0d459a.webp",
+  "productImageFilename": "product_2c7ff8ee-0d5c-4b47-a4f7-bb379d0d459a.webp",
+  "productImageFilenames": [
+    "product_2c7ff8ee-0d5c-4b47-a4f7-bb379d0d459a.webp"
+  ],
+  "concepts": [],
+  "generatedImages": []
+}

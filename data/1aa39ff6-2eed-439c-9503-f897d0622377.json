@@ -1,0 +1,46 @@
+{
+  "id": "1aa39ff6-2eed-439c-9503-f897d0622377",
+  "createdAt": "2026-06-10T12:57:10.784Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "chamomile tea ",
+    "targetAudience": "Adults 20-45 struggling to sleep",
+    "adGoal": "Conversions",
+    "toneOfVoice": "Urgent",
+    "visualStyle": "Lifestyle photo",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_e3f28d47-ccde-47e9-818c-6fc37ec97de4.webp",
+  "productImageFilename": "product_e3f28d47-ccde-47e9-818c-6fc37ec97de4.webp",
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Problem-Solution",
+      "headline": "Still Awake at 2AM Again?",
+      "primary_text": "Your mind won't stop. Organica Chamomile Tea calms racing thoughts so you finally sleep. Tonight.",
+      "cta": "Shop Now",
+      "visual_description": "Split-scene lifestyle photo: left half shows a dimly lit bedroom with a person staring at the ceiling, blue-tinted phone glow illuminating a frustrated expression; right half transitions into a warm amber-lit bedside table scene with the Organica chamomile tea box/tin front-and-center beside a steaming ceramic mug, soft candlelight creating a cozy, resolved mood. The visual contrast between cold blue stress and warm golden calm is the core emotional hook.",
+      "rationale": "Directly mirrors the audience's nightly pain point before presenting the product as the immediate fix, driving high-intent clicks from sleep-deprived adults ready to convert."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Urgency",
+      "headline": "Last Night to Sleep Like This",
+      "primary_text": "Our Chamomile Sleep Blend is nearly gone. 3,400 restless sleepers grabbed it this week. Don't wait.",
+      "cta": "Get Offer",
+      "visual_description": "Close-up lifestyle flat-lay on a linen-textured cream surface: the Organica chamomile tea packaging placed prominently in the centre, surrounded by scattered dried chamomile flowers, a half-drunk mug of golden tea, and a small handwritten 'Almost Sold Out' tag leaning against the box. Warm morning window light falls across the scene, creating soft shadows and a golden-hour glow that feels both premium and time-sensitive.",
+      "rationale": "Scarcity combined with social validation ('3,400 sleepers') triggers immediate purchase action from an audience already motivated to solve their sleep problem."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Transformation",
+      "headline": "8 Hours. No Pills. Just This.",
+      "primary_text": "From groggy and wired to deeply rested — Organica Chamomile Tea transforms your nights naturally.",
+      "cta": "Shop Now",
+      "visual_description": "Lifestyle diptych photo with a before/after structure: the 'before' panel shows a dishevelled nightstand cluttered with sleep aids, a blaring alarm clock reading 3:47AM, and harsh cool-toned lighting; the 'after' panel features the same nightstand now decluttered and serene, with only the Organica chamomile tea box and a peaceful steaming mug present, bathed in warm honey-toned lamplight with soft-focus linen bedding visible in the background suggesting deep, uninterrupted sleep.",
+      "rationale": "The transformation narrative speaks directly to the audience's desired outcome — natural, medication-free sleep — making the product feel like a lifestyle upgrade rather than just a purchase."
+    }
+  ],
+  "generatedImages": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "047fa6bf-2eb2-4fbe-aeda-60dc5afc48a3",
+  "createdAt": "2026-06-26T11:32:44.716Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_b5285267-9c59-4284-9bda-0849f78ce5b5.webp",
+  "productImageFilename": "product_b5285267-9c59-4284-9bda-0849f78ce5b5.webp",
+  "productImageFilenames": [
+    "product_b5285267-9c59-4284-9bda-0849f78ce5b5.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Social Proof",
+    "angle_rationale": "Coffee switchers need reassurance from real people who made the same switch successfully — a verified testimonial from someone like them removes the biggest objection.",
+    "visual_description": "A mixed-race woman in her early 30s wearing a dark athletic tank top and gold chain necklace holds up the Organica Tulsi Green Tea packaging toward the camera in a bright modern kitchen. Warm natural window light from the right illuminates her face with an authentic, post-workout glow while white cabinetry, a water bottle, and softly blurred everyday items fill the background in a shallow depth-of-field bokeh. The product packaging is sharp, forward-facing, and clearly legible as she raises it confidently toward the lens.",
+    "headlines": [
+      "My Coffee Is Collecting Dust",
+      "4,000+ Ex-Coffee Drinkers Agree",
+      "The Calm Energy Coffee Can't Give"
+    ],
+    "subheadlines": [
+      "Organica Tulsi Green Tea gives you steady focus — no jitters, no crash, no regrets.",
+      "Thousands have already made the switch. See why Tulsi Green Tea is their new morning ritual.",
+      "Ancient Tulsi + antioxidant-rich green tea. Clinically studied herbs. Real, lasting energy."
+    ],
+    "ctas": [
+      "Read More Reviews",
+      "See Their Stories",
+      "Try It Today"
+    ],
+    "testimonial": {
+      "quote": "I ditched coffee 3 weeks ago. Zero headaches. I feel clear all day.",
+      "attribution": "Verified organica customer",
+      "stars": 5
+    }
+  }
+}

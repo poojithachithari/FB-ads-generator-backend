@@ -1,0 +1,48 @@
+{
+  "id": "d7971680-de65-4c96-a7af-a7d18b05daf8",
+  "createdAt": "2026-06-26T15:58:16.913Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "simple chamomile tea",
+    "targetAudience": "adults having sleeping issues",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building"
+    ],
+    "visualStyle": [],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_3484b6ee-f61b-4356-b1e3-0a6b46d3049c.webp",
+  "productImageFilename": "product_3484b6ee-f61b-4356-b1e3-0a6b46d3049c.webp",
+  "productImageFilenames": [
+    "product_3484b6ee-f61b-4356-b1e3-0a6b46d3049c.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Authority",
+    "angle_rationale": "Sleep-deprived adults respond to credibility and clinical reassurance over hype — leading with proven, expert-backed claims converts skeptics into buyers.",
+    "visual_description": "The Organica chamomile tea pouch stands centered and tack-sharp on a dark weathered wooden surface, lit by a single dramatic overhead-left studio light that carves clean highlights across the packaging. Deep forest green atmospheric mist curls softly around the base of the product, blending into a rich gradient green background that feels botanical and premium. The mood is calm, authoritative, and nature-forward — nothing extraneous, just the product commanding the frame.",
+    "headlines": [
+      "Sleep Deeper.\nNothing Hidden.",
+      "Pure Chamomile.\nProven Results.",
+      "What's Inside\nActually Works."
+    ],
+    "subheadlines": [
+      "Clinically studied chamomile — one cup shown to reduce time to sleep by up to 30 minutes.",
+      "Trusted by sleep specialists: no additives, no fillers, just pure chamomile that works.",
+      "Organica chamomile is third-party tested so you know exactly what you're drinking tonight."
+    ],
+    "ctas": [
+      "See Full Ingredients",
+      "Shop Sleep Relief",
+      "Try It Tonight"
+    ],
+    "callout_labels": [
+      "100% Pure Chamomile",
+      "Third-Party Tested",
+      "No Additives"
+    ]
+  }
+}

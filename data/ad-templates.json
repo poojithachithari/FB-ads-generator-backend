@@ -1,0 +1,352 @@
+[
+  {
+    "id": "9eb2a4fa-5770-4874-b109-c5c6e266e7cc",
+    "name": "01_HeadlineStatement",
+    "filename": "7cad9467-2983-42f0-84fa-dfbbbc4dc123.png",
+    "imageUrl": "/template-images/7cad9467-2983-42f0-84fa-dfbbbc4dc123.png",
+    "createdAt": "2026-06-22T12:14:35.434Z"
+  },
+  {
+    "id": "cc9f08d5-c07a-472e-b69a-16cd298ded45",
+    "name": "02_OfferPromotion",
+    "filename": "048b5583-fb06-4de8-ba75-a978ffa4f1f8.png",
+    "imageUrl": "/template-images/048b5583-fb06-4de8-ba75-a978ffa4f1f8.png",
+    "createdAt": "2026-06-22T12:14:46.096Z"
+  },
+  {
+    "id": "090948d7-c864-434d-b5e1-c962d69e423b",
+    "name": "03_TestimonialCard",
+    "filename": "94e7e490-2ec9-43fc-93ee-8f55d862ccdd.png",
+    "imageUrl": "/template-images/94e7e490-2ec9-43fc-93ee-8f55d862ccdd.png",
+    "createdAt": "2026-06-22T12:14:56.571Z"
+  },
+  {
+    "id": "5f4f8a8e-ed28-4733-9e36-b9e00168df92",
+    "name": "04_FeaturesBenefits",
+    "filename": "6ab4a16e-9763-46d8-a175-916bb27c300b.png",
+    "imageUrl": "/template-images/6ab4a16e-9763-46d8-a175-916bb27c300b.png",
+    "createdAt": "2026-06-22T12:15:05.007Z"
+  },
+  {
+    "id": "122ffbbb-98c2-4eb6-814a-4c39aca0d51f",
+    "name": "05_KeyClaims",
+    "filename": "5ea6fef7-eca9-4ef6-b43c-7e20455d991d.png",
+    "imageUrl": "/template-images/5ea6fef7-eca9-4ef6-b43c-7e20455d991d.png",
+    "createdAt": "2026-06-22T12:15:13.966Z"
+  },
+  {
+    "id": "8fa16dfc-4913-4c95-b50c-52e9487f3b4f",
+    "name": "06_SocialProof",
+    "filename": "be5f8463-0734-4844-a5ff-8c2c893717be.png",
+    "imageUrl": "/template-images/be5f8463-0734-4844-a5ff-8c2c893717be.png",
+    "createdAt": "2026-06-22T12:15:23.822Z"
+  },
+  {
+    "id": "ae3f411d-d9cc-43e9-824c-09fb9add2075",
+    "name": "07_UsVsThem",
+    "filename": "36941f68-b18c-4040-9adb-168dbe039dbd.png",
+    "imageUrl": "/template-images/36941f68-b18c-4040-9adb-168dbe039dbd.png",
+    "createdAt": "2026-06-22T12:15:35.845Z"
+  },
+  {
+    "id": "7de0933a-123c-4578-96ea-bae97dbb4259",
+    "name": "08_BeforeAfterUGC",
+    "filename": "af69af32-e0e7-4bfb-9e98-9bde57897b29.png",
+    "imageUrl": "/template-images/af69af32-e0e7-4bfb-9e98-9bde57897b29.png",
+    "createdAt": "2026-06-22T12:15:44.136Z"
+  },
+  {
+    "id": "249b26bc-85c5-4fcf-8731-3e51ae66583f",
+    "name": "09_NegativeMarketing",
+    "filename": "30fe788a-ddb5-465a-b6eb-703218e82562.png",
+    "imageUrl": "/template-images/30fe788a-ddb5-465a-b6eb-703218e82562.png",
+    "createdAt": "2026-06-22T12:15:55.268Z"
+  },
+  {
+    "id": "b2ecd7ef-0f32-47cb-948c-84c086e5e100",
+    "name": "10_PressEditorial",
+    "filename": "1be9e935-3653-4dfb-9bd2-01c808d4bc09.png",
+    "imageUrl": "/template-images/1be9e935-3653-4dfb-9bd2-01c808d4bc09.png",
+    "createdAt": "2026-06-22T12:16:04.636Z"
+  },
+  {
+    "id": "250160ff-49b8-4c5d-8f66-d0aa5673cc84",
+    "name": "11_PullQuoteReview",
+    "filename": "e3af3307-aa3f-4b92-8d8e-1871dc0af984.png",
+    "imageUrl": "/template-images/e3af3307-aa3f-4b92-8d8e-1871dc0af984.png",
+    "createdAt": "2026-06-22T12:25:49.874Z"
+  },
+  {
+    "id": "c3aaddbe-f2a4-4046-8e84-98bbe5f26e60",
+    "name": "12_LifestyleArray",
+    "filename": "0b55c1a5-17a5-4cf7-8295-3555de536415.png",
+    "imageUrl": "/template-images/0b55c1a5-17a5-4cf7-8295-3555de536415.png",
+    "createdAt": "2026-06-22T12:26:00.754Z"
+  },
+  {
+    "id": "ae81e749-a67b-453f-9b19-3e37b8a959de",
+    "name": "13_StatSurround",
+    "filename": "41c8561a-a39b-4f57-9b6f-74b8e16e14f0.png",
+    "imageUrl": "/template-images/41c8561a-a39b-4f57-9b6f-74b8e16e14f0.png",
+    "createdAt": "2026-06-22T12:26:18.150Z"
+  },
+  {
+    "id": "bf523963-83c2-42f6-93d1-18f0bb3f2809",
+    "name": "14_BundleShowcase",
+    "filename": "3a666ce2-d674-42d8-b4d5-c8b708d6c969.png",
+    "imageUrl": "/template-images/3a666ce2-d674-42d8-b4d5-c8b708d6c969.png",
+    "createdAt": "2026-06-22T12:26:26.336Z"
+  },
+  {
+    "id": "7511b863-6033-4ec4-86bf-946be750e561",
+    "name": "15_SocialComment",
+    "filename": "6dd840e5-9d02-480b-8120-bd82fe51ce76.png",
+    "imageUrl": "/template-images/6dd840e5-9d02-480b-8120-bd82fe51ce76.png",
+    "createdAt": "2026-06-22T12:26:34.897Z"
+  },
+  {
+    "id": "35537df5-bb54-41f2-8e0f-b81ac5cc5053",
+    "name": "16_CuriosityGap",
+    "filename": "a42fd166-2deb-4467-9099-64bd3ca1e111.png",
+    "imageUrl": "/template-images/a42fd166-2deb-4467-9099-64bd3ca1e111.png",
+    "createdAt": "2026-06-22T12:26:49.458Z"
+  },
+  {
+    "id": "6a9d2327-94b8-4312-a2b4-4226365af7ec",
+    "name": "17_VerifiedReview",
+    "filename": "105977ab-072b-40ba-8909-c180ebab6f65.png",
+    "imageUrl": "/template-images/105977ab-072b-40ba-8909-c180ebab6f65.png",
+    "createdAt": "2026-06-22T12:26:58.477Z"
+  },
+  {
+    "id": "34c21447-cdea-43bb-8902-c44256da3ac2",
+    "name": "18_StatFlatlay",
+    "filename": "08236cb5-b7dd-437c-9fd1-21fec3daac63.png",
+    "imageUrl": "/template-images/08236cb5-b7dd-437c-9fd1-21fec3daac63.png",
+    "createdAt": "2026-06-22T12:27:11.940Z"
+  },
+  {
+    "id": "1257f13b-f442-4944-8e47-8670677680e5",
+    "name": "19_AnnotatedTestimonial",
+    "filename": "9717fb92-c72d-462e-a45c-bbc7a2cf4f3d.png",
+    "imageUrl": "/template-images/9717fb92-c72d-462e-a45c-bbc7a2cf4f3d.png",
+    "createdAt": "2026-06-22T12:28:08.421Z"
+  },
+  {
+    "id": "d6c9094b-4eb2-4be9-9c82-6a03d1dea9f8",
+    "name": "20_Advertorial",
+    "filename": "8e7256d8-4d48-4447-8698-540525c9bd00.png",
+    "imageUrl": "/template-images/8e7256d8-4d48-4447-8698-540525c9bd00.png",
+    "createdAt": "2026-06-22T12:28:17.632Z"
+  },
+  {
+    "id": "f07c4750-8338-46a0-b2e7-a48ac9ea2aa0",
+    "name": "21_BoldStatement",
+    "filename": "afb5961b-ac52-408b-9ef3-a9d498f1e6ef.png",
+    "imageUrl": "/template-images/afb5961b-ac52-408b-9ef3-a9d498f1e6ef.png",
+    "createdAt": "2026-06-22T12:28:25.677Z"
+  },
+  {
+    "id": "18119350-a7fd-49f1-93e2-cf13773ba57b",
+    "name": "22_OriginStory",
+    "filename": "15aeb5dd-263c-4f0d-b749-31585e850148.png",
+    "imageUrl": "/template-images/15aeb5dd-263c-4f0d-b749-31585e850148.png",
+    "createdAt": "2026-06-22T12:28:34.254Z"
+  },
+  {
+    "id": "5c7c0a82-6582-42cd-9143-e0f159576002",
+    "name": "23_Manifesto",
+    "filename": "248ebd63-48ee-44a4-8bab-dec9bed63a2b.png",
+    "imageUrl": "/template-images/248ebd63-48ee-44a4-8bab-dec9bed63a2b.png",
+    "createdAt": "2026-06-22T12:28:43.341Z"
+  },
+  {
+    "id": "11cbdd12-06ec-494c-b87c-c679af49c280",
+    "name": "24_ProductComment",
+    "filename": "0096afbc-8c42-40b9-85f3-41129c13e8fa.png",
+    "imageUrl": "/template-images/0096afbc-8c42-40b9-85f3-41129c13e8fa.png",
+    "createdAt": "2026-06-22T12:28:51.734Z"
+  },
+  {
+    "id": "6df5516c-0b77-4c67-ba81-8e389c707331",
+    "name": "25_UsVsThemIngredients",
+    "filename": "23dc175a-87cc-4e20-adce-3d57fddbdf4f.png",
+    "imageUrl": "/template-images/23dc175a-87cc-4e20-adce-3d57fddbdf4f.png",
+    "createdAt": "2026-06-22T12:29:02.483Z"
+  },
+  {
+    "id": "1140fcb4-3c48-41ff-9f10-bf994c291e78",
+    "name": "26_StatDrivenClaim",
+    "filename": "05795318-6c20-48ab-b53e-3cf9b57bfd15.png",
+    "imageUrl": "/template-images/05795318-6c20-48ab-b53e-3cf9b57bfd15.png",
+    "createdAt": "2026-06-22T12:29:12.774Z"
+  },
+  {
+    "id": "00724e8a-4a54-4bcc-8e8d-321889bb8d62",
+    "name": "27_BenefitChecklist",
+    "filename": "9d551076-97b4-4f94-8f0f-5c7f31785f5c.png",
+    "imageUrl": "/template-images/9d551076-97b4-4f94-8f0f-5c7f31785f5c.png",
+    "createdAt": "2026-06-22T12:29:30.206Z"
+  },
+  {
+    "id": "52944aad-3b44-4761-81f7-f1f071b56286",
+    "name": "28_ArrowCallout",
+    "filename": "25aec8ae-e295-4c99-8e80-058cfc782fc5.png",
+    "imageUrl": "/template-images/25aec8ae-e295-4c99-8e80-058cfc782fc5.png",
+    "createdAt": "2026-06-22T12:29:40.147Z"
+  },
+  {
+    "id": "b9197e91-700c-40aa-814e-c6b1d7b94bae",
+    "name": "29_UGCViral",
+    "filename": "95df8e1a-f924-41be-b696-5bfff352f6c3.png",
+    "imageUrl": "/template-images/95df8e1a-f924-41be-b696-5bfff352f6c3.png",
+    "createdAt": "2026-06-22T12:29:50.293Z"
+  },
+  {
+    "id": "af4116ef-b8d6-429f-ba96-4b82a9d42827",
+    "name": "30_HeroStatement",
+    "filename": "5ae7e02b-116e-4218-8009-a001531b2e0f.png",
+    "imageUrl": "/template-images/5ae7e02b-116e-4218-8009-a001531b2e0f.png",
+    "createdAt": "2026-06-22T12:29:59.630Z"
+  },
+  {
+    "id": "666a5cf2-b61b-48e0-9756-b11de4baeaa6",
+    "name": "31_ComparisonMeme",
+    "filename": "159eba99-ca2e-47a3-adf9-e6d40ce7347c.png",
+    "imageUrl": "/template-images/159eba99-ca2e-47a3-adf9-e6d40ce7347c.png",
+    "createdAt": "2026-06-22T15:35:41.563Z"
+  },
+  {
+    "id": "b6302359-e848-41ec-9c5e-14ceb3ee5800",
+    "name": "32_IGStory",
+    "filename": "06acd894-fd2d-44d7-82ac-672b2639e262.png",
+    "imageUrl": "/template-images/06acd894-fd2d-44d7-82ac-672b2639e262.png",
+    "createdAt": "2026-06-22T15:36:02.479Z"
+  },
+  {
+    "id": "b6a2c54a-11cb-4c16-befa-5431d49598d5",
+    "name": "33_FauxPressRelease",
+    "filename": "b86573e5-6381-48dd-9fff-b43b3d0893cf.png",
+    "imageUrl": "/template-images/b86573e5-6381-48dd-9fff-b43b3d0893cf.png",
+    "createdAt": "2026-06-22T15:36:12.727Z"
+  },
+  {
+    "id": "eeb3a953-549e-476d-90f0-d6344288320b",
+    "name": "34_iPhoneNotes",
+    "filename": "393b83a3-4877-46c7-b37f-100b0c6acdf7.png",
+    "imageUrl": "/template-images/393b83a3-4877-46c7-b37f-100b0c6acdf7.png",
+    "createdAt": "2026-06-22T15:36:29.408Z"
+  },
+  {
+    "id": "80aa1dd0-4a2c-44e5-ad4e-d3c5027660d5",
+    "name": "35_HeroStat",
+    "filename": "54abf8d1-c130-4b9f-a32a-8fdb472533cf.png",
+    "imageUrl": "/template-images/54abf8d1-c130-4b9f-a32a-8fdb472533cf.png",
+    "createdAt": "2026-06-22T15:36:39.887Z"
+  },
+  {
+    "id": "1c5c7d39-e714-4d80-906f-6072edbe21b1",
+    "name": "36_Whiteboard",
+    "filename": "b962985c-1d93-4fdd-95a2-0b7acb3a4725.png",
+    "imageUrl": "/template-images/b962985c-1d93-4fdd-95a2-0b7acb3a4725.png",
+    "createdAt": "2026-06-22T15:36:50.257Z"
+  },
+  {
+    "id": "dcc1653c-cb45-4812-a206-a72337ec6f9f",
+    "name": "37_PromoBadge",
+    "filename": "430dca89-6f4a-46e8-b744-ddc483d67f4e.png",
+    "imageUrl": "/template-images/430dca89-6f4a-46e8-b744-ddc483d67f4e.png",
+    "createdAt": "2026-06-22T15:37:02.075Z"
+  },
+  {
+    "id": "f23a92ab-8884-4ff1-b8a9-bcc53e0f97dd",
+    "name": "38_UGCReview",
+    "filename": "01da013a-14d6-45f9-93a8-59d317f3bf87.png",
+    "imageUrl": "/template-images/01da013a-14d6-45f9-93a8-59d317f3bf87.png",
+    "createdAt": "2026-06-22T15:37:12.646Z"
+  },
+  {
+    "id": "9afae15a-1e82-4088-b0e2-10962bfa35cf",
+    "name": "39_CuriosityScrollStop",
+    "filename": "db7c799d-9f64-4859-b77e-151eaaaf6de4.png",
+    "imageUrl": "/template-images/db7c799d-9f64-4859-b77e-151eaaaf6de4.png",
+    "createdAt": "2026-06-22T15:37:20.711Z"
+  },
+  {
+    "id": "ab054cbb-d81f-4d2a-9e13-a9b49db4197e",
+    "name": "40_PostItNote",
+    "filename": "78d417d7-04bb-4428-a339-0d506197fd73.png",
+    "imageUrl": "/template-images/78d417d7-04bb-4428-a339-0d506197fd73.png",
+    "createdAt": "2026-06-22T15:37:29.602Z"
+  },
+  {
+    "id": "91fa5bcc-1484-420d-88f9-465fa159bdf8",
+    "name": "41_VisualMetaphor",
+    "filename": "934cc3ec-6dc1-42fd-bd1c-0fecf03b005e.png",
+    "imageUrl": "/template-images/934cc3ec-6dc1-42fd-bd1c-0fecf03b005e.png",
+    "createdAt": "2026-06-22T15:37:37.398Z"
+  },
+  {
+    "id": "a8d0d7d4-f48b-4135-923a-4094b8c60097",
+    "name": "42_AuthorityWarning",
+    "filename": "00c3d5cf-aa07-46e0-bdb8-051587711e40.png",
+    "imageUrl": "/template-images/00c3d5cf-aa07-46e0-bdb8-051587711e40.png",
+    "createdAt": "2026-06-22T15:37:46.731Z"
+  },
+  {
+    "id": "357a54d9-18f6-4030-8edd-6b22b2def47a",
+    "name": "43_ClinicalData",
+    "filename": "65cafe38-c08f-440d-8865-c563ff85b44e.png",
+    "imageUrl": "/template-images/65cafe38-c08f-440d-8865-c563ff85b44e.png",
+    "createdAt": "2026-06-22T15:37:53.961Z"
+  },
+  {
+    "id": "5c68b21d-6c13-40a6-9a2b-1cead3765629",
+    "name": "44_LuxuryIsolation",
+    "filename": "4fbb0379-93f3-469e-89d7-ca2b75e4b6b3.png",
+    "imageUrl": "/template-images/4fbb0379-93f3-469e-89d7-ca2b75e4b6b3.png",
+    "createdAt": "2026-06-22T15:38:02.762Z"
+  },
+  {
+    "id": "8461383e-826f-4af5-9f95-74608ec8d7df",
+    "name": "45_Environmental",
+    "filename": "a5ebc8b9-b0db-48c4-8e94-72dccc3ef2eb.png",
+    "imageUrl": "/template-images/a5ebc8b9-b0db-48c4-8e94-72dccc3ef2eb.png",
+    "createdAt": "2026-06-22T15:38:09.946Z"
+  },
+  {
+    "id": "d2f38d10-fbce-4283-a212-08ab6ec84461",
+    "name": "46_IngredientTransparency",
+    "filename": "fb26d1e5-51ce-407e-bfc7-ba0ab3e8ed5b.png",
+    "imageUrl": "/template-images/fb26d1e5-51ce-407e-bfc7-ba0ab3e8ed5b.png",
+    "createdAt": "2026-06-22T15:38:28.922Z"
+  },
+  {
+    "id": "4de29b0d-fd1b-4dac-8fde-ca9f18a56180",
+    "name": "47_Guarantee",
+    "filename": "4b2a5abe-416c-4650-8cf8-ddc2b83fefcb.png",
+    "imageUrl": "/template-images/4b2a5abe-416c-4650-8cf8-ddc2b83fefcb.png",
+    "createdAt": "2026-06-22T15:38:35.321Z"
+  },
+  {
+    "id": "dbdff433-ef74-4a77-ae36-04019a9f2946",
+    "name": "48_HowItWorks",
+    "filename": "857875ad-595e-4d80-ba2d-68e086fa5e70.png",
+    "imageUrl": "/template-images/857875ad-595e-4d80-ba2d-68e086fa5e70.png",
+    "createdAt": "2026-06-22T15:38:42.400Z"
+  },
+  {
+    "id": "e967a995-7988-4715-9518-0f8b470669a1",
+    "name": "49_Unboxing",
+    "filename": "8721912d-1cea-4eed-8dc8-e8f07c6d9d14.png",
+    "imageUrl": "/template-images/8721912d-1cea-4eed-8dc8-e8f07c6d9d14.png",
+    "createdAt": "2026-06-22T15:38:50.484Z"
+  },
+  {
+    "id": "4c34936b-c92c-42e8-b193-464aa8b3178b",
+    "name": "50_CountdownScarcity",
+    "filename": "93b9e0f4-cb7c-4ad6-a546-c535d6e462bd.png",
+    "imageUrl": "/template-images/93b9e0f4-cb7c-4ad6-a546-c535d6e462bd.png",
+    "createdAt": "2026-06-22T15:38:57.039Z"
+  }
+]

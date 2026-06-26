@@ -1,0 +1,46 @@
+{
+  "id": "8e6ce037-1ead-4826-93e8-80cae78641af",
+  "createdAt": "2026-06-12T10:29:15.130Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "simple chamomile tea",
+    "targetAudience": "adults from 20-55 having trouble sleeping",
+    "adGoal": "Conversions",
+    "toneOfVoice": "Trust-building",
+    "visualStyle": "Lifestyle photo",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_aa7bb042-a80d-4594-aeb6-cb89e991d339.webp",
+  "productImageFilename": "product_aa7bb042-a80d-4594-aeb6-cb89e991d339.webp",
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Problem-Solution",
+      "headline": "Still Awake at 2AM Again?",
+      "primary_text": "Organica Chamomile Tea calms a restless mind in minutes. No pills. No grogginess. Just sleep.",
+      "cta": "Shop Now",
+      "visual_description": "Split-scene lifestyle photo: left side shows a dimly lit bedroom with a person lying wide-eyed in tangled sheets, blue-tinted harsh light from a phone screen. Right side shows the same person in warm amber candlelight, hands wrapped around a steaming mug with the Organica chamomile tea box/bottle placed prominently on the nightstand beside them, eyes softly closed. Warm honey and cream tones dominate the right panel.",
+      "rationale": "Directly mirrors the audience's nightly frustration and positions Organica as the immediate, natural remedy — driving high-intent clicks from sleep-deprived adults."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Social Proof",
+      "headline": "47,000 Nights of Better Sleep",
+      "primary_text": "⭐⭐⭐⭐⭐ 'First time I slept 8 hours straight in months.' — verified Organica buyer.",
+      "cta": "Shop Now",
+      "visual_description": "Close-up lifestyle flatlay on a rustic linen-textured cream surface: the Organica chamomile tea product positioned centrally with dried chamomile flowers scattered naturally around it, a handwritten-style review card leaning against the product, and a softly steaming ceramic mug in muted sage green beside it. Soft diffused morning window light creates gentle shadows, conveying calm authenticity.",
+      "rationale": "Real customer language and a specific review number builds immediate trust with skeptical adults who have already tried multiple sleep solutions without success."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Transformation",
+      "headline": "From Exhausted to Well-Rested",
+      "primary_text": "One cup of Organica Chamomile before bed. Wake up feeling like yourself again. Natural. Simple. It works.",
+      "cta": "Get Offer",
+      "visual_description": "Soft-focus lifestyle photo of a tidy bedroom morning scene: warm golden sunrise light pouring through sheer white curtains onto a neatly made bed with ivory linen. The Organica chamomile tea product sits on a wooden bedside table beside an empty mug with a chamomile flower resting inside it, implying it was enjoyed the night before. The overall mood is serene, unhurried, and optimistic — pale gold and white palette throughout.",
+      "rationale": "The 'morning after' visual tells the transformation story without showing a person, letting the sleep-deprived audience project themselves into the aspirational scene and feel the emotional payoff."
+    }
+  ],
+  "generatedImages": []
+}

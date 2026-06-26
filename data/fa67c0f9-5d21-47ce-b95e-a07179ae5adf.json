@@ -1,0 +1,47 @@
+{
+  "id": "fa67c0f9-5d21-47ce-b95e-a07179ae5adf",
+  "createdAt": "2026-06-26T14:24:36.472Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building",
+      "Soft",
+      "Playful"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_6beda2f5-0040-4e2a-b0ae-15a8bb11fe31.webp",
+  "productImageFilename": "product_6beda2f5-0040-4e2a-b0ae-15a8bb11fe31.webp",
+  "productImageFilenames": [
+    "product_6beda2f5-0040-4e2a-b0ae-15a8bb11fe31.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Transformation",
+    "angle_rationale": "The split before-after template is built for transformation storytelling, and coffee-quitters have a visceral before state (jittery, anxious, crash) that Tulsi Green Tea directly resolves with calm, sustained energy.",
+    "visual_description": "Left panel: a woman in a soft grey t-shirt stands in a dim, warmly lit kitchen, hand resting on her stomach, tired and slightly tense expression, muted grey-beige background with an empty coffee mug visible on the counter behind her. Right panel: the same woman in a dark athletic tank top, flushed cheeks and a wide confident smile, holding the Organica Tulsi Green Tea box toward the camera in a bright, airy space with blurred greenery in the background. The overall palette shifts from desaturated and heavy on the left to fresh, luminous, and green-accented on the right, mimicking authentic user-generated content.",
+    "headlines": [
+      "Before Coffee Crashes. After Organica.",
+      "Before Jitters. After Tulsi.",
+      "Before 3pm Slumps. After This."
+    ],
+    "subheadlines": [
+      "No jitters. No crash. Just Tulsi, green tea, and real calm energy.",
+      "Clean ingredients. Steady focus. Zero coffee anxiety holding you back.",
+      "Adaptogenic Tulsi meets green tea — your smoother, calmer morning ritual."
+    ],
+    "ctas": [
+      "Try It Risk-Free",
+      "Make the Switch",
+      "Start Yours Today"
+    ]
+  }
+}

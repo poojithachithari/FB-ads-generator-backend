@@ -1,0 +1,56 @@
+{
+  "id": "79c28e65-d6a4-4cbc-b879-c4f127b58399",
+  "createdAt": "2026-06-22T17:24:37.355Z",
+  "brief": {
+    "brandName": "organica ",
+    "productOffer": "simple chamomile tea",
+    "targetAudience": "adults with sleeping issues",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Playful"
+    ],
+    "visualStyle": [
+      "Bold graphic"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_2cc3e6a6-f84c-4e03-bc84-46756a8e6ebd.webp",
+  "productImageFilename": "product_2cc3e6a6-f84c-4e03-bc84-46756a8e6ebd.webp",
+  "productImageFilenames": [
+    "product_2cc3e6a6-f84c-4e03-bc84-46756a8e6ebd.webp"
+  ],
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Urgency",
+      "headline": "Your best sleep is on sale.",
+      "primary_text": "Still counting sheep? 🐑 Organica chamomile tea is your coziest bedtime ritual — and it's 20% off today only.",
+      "cta": "Get Offer",
+      "badge": "20% OFF",
+      "visual_description": "The Organica chamomile tea pouch sits centred slightly left on a clean white marble surface, softly lit from above-left with a gentle shadow underneath. The forest green and cream label faces forward at a slight elevation angle, with the 20% OFF badge floating upper-right in a solid olive circle. No lifestyle props — purely product on marble, clean and editorial.",
+      "rationale": "A time-limited discount badge paired with a playful sleep-struggle hook creates scroll-stopping urgency for insomnia-weary adults who are already pre-sold on trying something new."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Problem-Solution",
+      "headline": "Tired of being tired at 2am?",
+      "primary_text": "Your brain called — it wants chamomile. 🌼 Organica's simple, pure chamomile tea helps you wind down naturally. No drama, just zzz's.",
+      "cta": "Shop Now",
+      "badge": "100% Natural",
+      "visual_description": "The Organica chamomile tea stand-up pouch is centred slightly left on a soft white marble surface, lit with diffused overhead studio light casting a minimal shadow at its base. The label's chamomile flower illustration and key ingredient callout face forward clearly. A circular olive-green badge in the upper-right reads '100% Natural' in bold white sans-serif.",
+      "rationale": "Naming the exact late-night frustration in a witty, relatable way instantly connects with the sleep-deprived target audience and positions the product as the obvious, low-effort fix."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Social Proof",
+      "headline": "Sleepy people swear by this tea.",
+      "primary_text": "Join thousands of ex-insomniacs who ditched the doom-scroll and found their ZZZs. 😴 Try Organica chamomile — satisfaction guaranteed.",
+      "cta": "Get Offer",
+      "badge": "5,000+ Sleepers",
+      "visual_description": "The Organica chamomile pouch sits front and centre on a light cream marble surface, slightly elevated angle, soft diffused window light from above-left with a delicate natural shadow beneath. The product label with chamomile ingredient callout is crisp and fully visible. The circular olive badge upper-right displays '5,000+ Sleepers' in bold white text, reinforcing community credibility.",
+      "rationale": "For conversion-hesitant adults who've tried and failed with sleep solutions before, aggregated peer validation on the badge and copy reduces purchase risk and makes clicking feel safe and sensible."
+    }
+  ],
+  "generatedImages": []
+}

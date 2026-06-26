@@ -1,0 +1,58 @@
+{
+  "id": "004a61ac-835f-4b96-995d-60f451d22456",
+  "createdAt": "2026-06-17T16:22:54.652Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Simple Chamamolie tea ",
+    "targetAudience": "Adults with sleeping issues",
+    "adGoal": "Traffic",
+    "toneOfVoice": "Trust-building",
+    "visualStyle": "Product-only",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_bfad829f-0886-409c-be4a-4ce0d5724202.webp",
+  "productImageFilename": "product_bfad829f-0886-409c-be4a-4ce0d5724202.webp",
+  "productImageFilenames": [
+    "product_bfad829f-0886-409c-be4a-4ce0d5724202.webp"
+  ],
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Authority",
+      "headline": "Chamomile: Nature's Sleep Aid",
+      "primary_text": "Used for centuries to calm restless nights. Organica Simple Chamomile — trusted by sleep specialists worldwide.",
+      "cta": "Learn More",
+      "visual_description": "Overhead flat-lay shot of the Organica Simple Chamomile tea box centered on a clean matte white surface. The packaging is the sole subject, sharply lit from directly above with soft diffused daylight, revealing every label detail, logo, and typography in crisp clarity. A small scatter of dried chamomile flower heads surrounds the box naturally, adding botanical context without distracting from the product.",
+      "rationale": "Anchoring chamomile's centuries-long credibility builds immediate trust with sleep-deprived adults who are skeptical of modern sleep aids and more likely to click when they feel reassured by historical authority."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Problem-Solution",
+      "headline": "Still Awake at 2AM? Try This.",
+      "primary_text": "Restless nights don't have to be your normal. One cup of Organica Chamomile helps your body wind down — naturally, safely.",
+      "cta": "Learn More",
+      "visual_description": "Close-up front-facing hero shot of the Organica Simple Chamomile tea box placed on a smooth dark slate surface, lit by a single warm, soft light source from the upper left that casts a gentle golden glow across the packaging. The background fades into a deep, almost-black tone, creating a calm, nighttime atmosphere. The product stands alone, fully legible, with soft shadows grounding it against the dark surface.",
+      "rationale": "Naming the exact pain point — lying awake at 2AM — stops the scroll for insomnia sufferers, and the calm problem-solution framing builds trust that this is a safe, natural answer rather than an aggressive sales pitch."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Social Proof",
+      "headline": "Thousands Sleep Better Nightly",
+      "primary_text": "Over 10,000 customers trust Organica Chamomile to ease them into sleep. See why it's become a bedtime staple.",
+      "cta": "Shop Now",
+      "visual_description": "Tight three-quarter angle product shot of the Organica Simple Chamomile tea box standing upright on a minimal warm off-white surface, shot at a slight low angle to give the product a confident, prominent presence. Soft, even studio lighting from the front-left keeps the packaging bright, fully readable, and premium-looking with zero harsh shadows. The background is a clean seamless warm cream gradient, keeping all visual focus locked on the product.",
+      "rationale": "A concrete customer number acts as immediate social validation for skeptical adults who hesitate to try new sleep solutions, making the click feel low-risk because others have already proven it works."
+    }
+  ],
+  "generatedImages": [
+    {
+      "conceptId": "concept_2",
+      "filename": "ad_cbe1eefe-ff27-4742-8ac8-3480df16acf2.png",
+      "imageUrl": "http://localhost:3001/generated/ad_cbe1eefe-ff27-4742-8ac8-3480df16acf2.png",
+      "prompt": "Facebook/Instagram ad, professional photography. Close-up hero product shot of the Organica Simple Chamomile tea box standing upright on a smooth dark charcoal slate surface, shot at a slight three-quarter low angle with a 85mm lens, shallow depth of field, the product occupying the lower-center of the frame with generous dark negative space rising above and behind it.\n\nThe box is lit by a single warm softbox positioned upper-left at roughly 45 degrees, casting a soft golden-amber glow across the front face of the packaging — enough warmth to make the product feel alive and tactile without washing out any typography or artwork. The light creates a delicate highlight rim along the left edge of the box, clean specular detail across any foil or gloss finish on the label, and a long, soft shadow trailing diagonally to the lower-right across the slate surface. A subtle secondary fill bounces back from the right at very low intensity, preserving legibility on the shadowed side without eliminating depth.\n\nThe slate surface has fine grain texture, barely visible hairline striations catching the low raking light, with a thin film of soft surface mist — as if the product were placed on a cool nightstand surface at 2am. Two or three dried chamomile flowers lie casually beside the base of the box, slightly unfocused in the foreground, their pale cream-yellow petals and honey-brown centers adding an organic, botanical warmth that reinforces the natural ingredient story.\n\nThe background fades into a near-black deep navy gradient — not pure black, but the rich dark tone of a quiet bedroom at night, suggesting stillness, rest, and the hours before sleep. The atmosphere is calm, hushed, and intimate. The darkness creates visual contrast that anchors the packaging as the absolute luminous focal point of the frame.\n\nThe product label should be razor-sharp, fully readable, label artwork preserved exactly — no distortion, no reimagining of typography or brand colors. The box feels physically grounded on the surface, not floated or composited — realistic contact shadow beneath it, subtle environmental reflection of its warm tones pooling softly on the slate.\n\nColor palette: deep navy-charcoal background, warm amber key light, cream and chamomile-gold tones on the product, pale ivory dried petals in the foreground. The entire frame should feel like a resolution — not the restless hours before sleep, but the quiet promise of it.\n\nNo text overlays. No watermarks. Photorealistic. Ultra high resolution.",
+      "method": "gemini-product",
+      "generatedAt": "2026-06-17T16:24:50.646Z"
+    }
+  ]
+}

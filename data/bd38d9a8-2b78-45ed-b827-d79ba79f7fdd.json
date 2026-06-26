@@ -1,0 +1,46 @@
+{
+  "id": "bd38d9a8-2b78-45ed-b827-d79ba79f7fdd",
+  "createdAt": "2026-06-26T13:26:25.938Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building",
+      "Soft"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_83711163-dd48-49d2-8d61-c31dafc990d0.webp",
+  "productImageFilename": "product_83711163-dd48-49d2-8d61-c31dafc990d0.webp",
+  "productImageFilenames": [
+    "product_83711163-dd48-49d2-8d61-c31dafc990d0.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Problem-Solution",
+    "angle_rationale": "Coffee switchers have a specific pain point — jitters, crashes, dependency — and Tulsi Green Tea offers a credible, gentle alternative, making problem-solution the most persuasive conversion angle.",
+    "visual_description": "A warm, softly lit kitchen scene with the Organica Tulsi Green Tea box and a steaming ceramic mug placed on a light wooden surface beside a few fresh tulsi leaves. Natural morning window light filters in from the left, casting gentle warm tones across the scene. The background is soft and slightly blurred, with neutral cream and sage green tones evoking calm and wellness.",
+    "headlines": [
+      "Still Crashing After Coffee?",
+      "A Calmer Morning Starts Here",
+      "Ditch the Jitters, Not the Ritual"
+    ],
+    "subheadlines": [
+      "Organica Tulsi Green Tea gives you steady, gentle energy — no crash, no anxiety.",
+      "Thousands have made the switch. A warm cup of calm is easier than you think.",
+      "Tulsi and green tea together support focus and stress relief, naturally and gently."
+    ],
+    "ctas": [
+      "Try It Today",
+      "Make the Switch",
+      "Shop Now"
+    ]
+  }
+}

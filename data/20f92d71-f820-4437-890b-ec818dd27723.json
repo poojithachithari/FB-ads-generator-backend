@@ -1,0 +1,46 @@
+{
+  "id": "20f92d71-f820-4437-890b-ec818dd27723",
+  "createdAt": "2026-06-25T17:31:24.309Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_5a77e5d7-4142-4179-8455-57f3bdd7728f.webp",
+  "productImageFilename": "product_5a77e5d7-4142-4179-8455-57f3bdd7728f.webp",
+  "productImageFilenames": [
+    "product_5a77e5d7-4142-4179-8455-57f3bdd7728f.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Authority",
+    "angle_rationale": "Coffee switchers need credible reassurance that a new ritual will deliver — a superlative, ingredient-transparent positioning makes Organica the definitive expert choice rather than just another herbal tea.",
+    "visual_description": "A single Organica Tulsi Green Tea box is centered on a smooth off-white surface, casting a soft natural drop shadow beneath it. The background transitions seamlessly from a calming sage green at the top to a warm near-white cream at the bottom, creating a clean gradient that frames the product. Studio lighting is soft and even, illuminating the packaging's lime-green label accents and fine typography with crisp, premium clarity.",
+    "headlines": [
+      "The Cleanest\nCoffee Alternative",
+      "Your Smarter\nMorning Ritual",
+      "World's Purest\nTulsi Green Tea"
+    ],
+    "subheadlines": [
+      "100% organic Tulsi & green tea — no jitters, no crash, no compromise.",
+      "Clinically studied Tulsi leaf blended with antioxidant-rich green tea leaves.",
+      "No artificial additives, no fillers — just pure adaptogenic Tulsi green tea."
+    ],
+    "ctas": [
+      "Shop Organica",
+      "Try It Now",
+      "Make The Switch"
+    ],
+    "rating_text": "★★★★★ 2,400+ Reviews"
+  }
+}

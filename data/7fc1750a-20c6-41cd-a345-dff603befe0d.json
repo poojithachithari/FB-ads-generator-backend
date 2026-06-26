@@ -1,0 +1,47 @@
+{
+  "id": "7fc1750a-20c6-41cd-a345-dff603befe0d",
+  "createdAt": "2026-06-26T14:46:35.646Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building",
+      "Soft",
+      "Playful"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_f768ab1f-9a01-4d12-a21a-9e9660896ce6.webp",
+  "productImageFilename": "product_f768ab1f-9a01-4d12-a21a-9e9660896ce6.webp",
+  "productImageFilenames": [
+    "product_f768ab1f-9a01-4d12-a21a-9e9660896ce6.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Problem-Solution",
+    "angle_rationale": "Coffee switchers have a clear pain point — jitters, crashes, and dependency — and Tulsi Green Tea positions itself as the calm, clean alternative, making a problem-solution angle the most direct path to conversion.",
+    "visual_description": "Clean studio-style product comparison on a warm off-white background: the Organica Tulsi Green Tea box is sharp and fully lit in the foreground-right, rendered in rich natural greens with clear label detail. In the background-left, a generic coffee jar sits blurred and desaturated to a muted grey, visually receding into irrelevance. Soft diffused overhead lighting, minimal shadows, clinical yet warm mood with a gentle botanical leaf or two resting near the hero product to reinforce freshness.",
+    "headlines": [
+      "Stop Letting Coffee Own You",
+      "Ditch the Crash. Try This.",
+      "Your Morning Deserves Better"
+    ],
+    "subheadlines": [
+      "Most coffees spike your cortisol and leave you depleted. Organica Tulsi Green Tea gives you calm, clean energy — no crash, no compromise.",
+      "Coffee gives energy with a price tag of jitters and anxiety. Organica Tulsi Green Tea soothes and energizes, naturally and gently.",
+      "The average coffee drinker crashes by 11am. Organica Tulsi Green Tea delivers steady, adaptogen-powered calm from the very first sip."
+    ],
+    "ctas": [
+      "Make the Switch",
+      "Try It Today",
+      "Get Your Tea"
+    ]
+  }
+}

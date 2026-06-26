@@ -1,0 +1,58 @@
+{
+  "id": "e2dc6c29-f101-4ffe-bd38-d4038b54a8de",
+  "createdAt": "2026-06-22T12:00:38.046Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "simple chamomile tea",
+    "targetAudience": "adults having sleep problems",
+    "adGoal": "Conversions",
+    "toneOfVoice": "Urgent",
+    "visualStyle": "Lifestyle photo",
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_b1745f7b-365f-415b-bac4-172289017a92.webp",
+  "productImageFilename": "product_b1745f7b-365f-415b-bac4-172289017a92.webp",
+  "productImageFilenames": [
+    "product_b1745f7b-365f-415b-bac4-172289017a92.webp"
+  ],
+  "concepts": [
+    {
+      "id": "concept_1",
+      "creative_angle": "Problem-Solution",
+      "headline": "Stop Staring At The Ceiling.",
+      "primary_text": "Sleepless nights end tonight. Organica Chamomile Tea. One cup. Real sleep. Order now — stock is low.",
+      "cta": "Shop Now",
+      "visual_description": "A dimly lit bedroom at 2AM, a tired woman in her 30s sitting up in bed with dark under-eye circles, a warm bedside lamp casting a soft amber glow. In the foreground on the nightstand, the Organica chamomile tea box sits prominently beside a steaming white ceramic mug, close to camera with the label fully visible. The mood shifts from restless exhaustion to quiet relief — she holds the mug with both hands, eyes beginning to close, warm steam rising against the dark room.",
+      "rationale": "Directly mirrors the audience's nightly pain point and positions the product as the immediate, tangible fix — driving purchase urgency in conversion-focused adults who have already failed to sleep."
+    },
+    {
+      "id": "concept_2",
+      "creative_angle": "Urgency",
+      "headline": "Last Boxes Selling Fast.",
+      "primary_text": "Thousands sleep better with Organica Chamomile. Don't spend another night awake. Grab yours before it's gone.",
+      "cta": "Get Offer",
+      "visual_description": "A cozy living room evening scene — warm lamplight, a soft cream knit blanket draped across a sofa. A man in his 40s in a relaxed henley top reaches for the Organica chamomile tea box from a rustic wooden tray on the coffee table, the product centered and label-forward in the mid-ground with a steaming mug and a lit candle beside it. The room feels calm, intentional, and deeply desirable — shot at eye level with a shallow depth of field that keeps the product crisp against the soft warm-toned background.",
+      "rationale": "Scarcity language combined with a visually aspirational lifestyle scene triggers loss aversion in sleep-deprived adults who are ready to convert but need a final push."
+    },
+    {
+      "id": "concept_3",
+      "creative_angle": "Transformation",
+      "headline": "8 Hours. No Pills. Just Tea.",
+      "primary_text": "Wake up rested for the first time in months. Organica Chamomile — natural sleep, starting tonight. Order now.",
+      "cta": "Shop Now",
+      "visual_description": "A bright natural morning scene — golden early sunlight streaming through sheer white curtains onto a neatly made bed, a woman in her late 30s stretching her arms up with a genuine relaxed smile, visibly well-rested and glowing. On the bedside table in the foreground, the Organica chamomile tea box sits prominently next to an empty mug and a small scattered of dried chamomile flowers, product label fully facing the camera. The composition is shot slightly above eye level, warm and optimistic, with clean whites and soft gold tones reinforcing the feeling of a completely transformed morning.",
+      "rationale": "The transformation angle sells the outcome — not the tea — giving sleep-deprived buyers an emotionally charged vision of their life after purchase, which is the most powerful conversion trigger for this audience."
+    }
+  ],
+  "generatedImages": [
+    {
+      "conceptId": "concept_3",
+      "filename": "ad_095e17e5-b12e-46cc-b953-195b4635dc1b.png",
+      "imageUrl": "http://localhost:3001/generated/ad_095e17e5-b12e-46cc-b953-195b4635dc1b.png",
+      "prompt": "Facebook/Instagram ad, editorial photography style. Vertical 9:16 diptych transformation frame — a bold before/after UGC-style split composition divided cleanly down the vertical center axis by a razor-thin warm gold line.\n\nLEFT PANEL — THE BEFORE STATE: Dark, desaturated, claustrophobic. A woman in her late 30s lies awake in a dimly lit bedroom at 2AM, deep charcoal-blue shadows across the scene, cool blue-grey ambient light from a phone screen illuminating her face from below. She stares at the ceiling with open, exhausted eyes, dark undereye circles faintly visible, one arm resting across her chest. The duvet is twisted and half-thrown. The bedside table beside her is bare and cold. The overall color temperature is a flat, draining cool blue — no warmth, no hope, no texture in the light. Slight motion blur on the restless hand. The framing is tight and suffocating — close environmental shot, eye-level camera angle, 50mm lens compression.\n\nRIGHT PANEL — THE AFTER STATE: Warm, radiant, expansive. The same woman, same bedroom, now flooded with early morning golden sunlight pouring through sheer white linen curtains — a diffused warm amber key light raking softly from the upper-left, creating long glowing shadows across a neatly made bed with clean white cotton bedding. She sits upright with both arms stretching above her head, eyes soft and relaxed, skin luminous with warm honey highlights, a natural unheld smile — not performed, just rested. Her hair falls naturally to one shoulder. On the bedside table in the immediate foreground, sharply in focus, sits the Organica chamomile tea box as the primary product hero — label fully facing the camera, lit by the same warm morning window light with a clean specular edge along its left face. Beside it: a white ceramic mug with a faint amber tea ring at the base suggesting recent use, and four or five dried chamomile flower heads scattered naturally across the wood surface, casting tiny soft shadows. The product is placed in the lower-right quadrant of the right panel, anchoring the composition as the unmistakable causal object of this transformation. Shallow depth of field — 85mm portrait compression, f/2.0 feel — the product and the woman's face share the focal plane at different distances, creating layered editorial depth. Color grade: warm ivory, soft gold, clean white cotton — the palette of a genuinely restorative morning. No urgency in the light — pure calm achievement. High contrast between the two panels is the urgency: the left is the threat, the right is the release.\n\nNo text overlays. No watermarks. Photorealistic. Ultra high resolution.",
+      "method": "gemini-product",
+      "generatedAt": "2026-06-22T12:22:15.033Z"
+    }
+  ]
+}

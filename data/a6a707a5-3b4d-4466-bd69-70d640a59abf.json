@@ -1,0 +1,47 @@
+{
+  "id": "a6a707a5-3b4d-4466-bd69-70d640a59abf",
+  "createdAt": "2026-06-26T14:43:06.538Z",
+  "brief": {
+    "brandName": "organica",
+    "productOffer": "Tulsi Green Tea",
+    "targetAudience": "people who want switch from coffee",
+    "adGoal": "Conversions",
+    "toneOfVoice": [
+      "Trust-building",
+      "Soft",
+      "Playful"
+    ],
+    "visualStyle": [
+      "Text-heavy"
+    ],
+    "numConcepts": 3,
+    "additionalNotes": ""
+  },
+  "productImageUrl": "http://localhost:3001/uploads/product_2199b2e3-b3c3-4e3c-b8ef-be6c2768c4ee.webp",
+  "productImageFilename": "product_2199b2e3-b3c3-4e3c-b8ef-be6c2768c4ee.webp",
+  "productImageFilenames": [
+    "product_2199b2e3-b3c3-4e3c-b8ef-be6c2768c4ee.webp"
+  ],
+  "concepts": [],
+  "generatedImages": [],
+  "copyOptions": {
+    "creative_angle": "Problem-Solution",
+    "angle_rationale": "Coffee switchers have a specific pain point — jitters, crashes, dependency — and Tulsi Green Tea is a direct, credible answer that makes the conversion case obvious.",
+    "visual_description": "A warm, sunlit kitchen countertop scene with soft morning light streaming through a window. An organica Tulsi Green Tea box and a freshly brewed cup of golden-green tea sit center frame, steam gently rising, surrounded by a few fresh tulsi leaves and a small ceramic honey dish. The mood is calm, clean, and unhurried — the kind of morning ritual that feels like a healthy upgrade.",
+    "headlines": [
+      "Your Coffee Replacement Is Here",
+      "Ditch the Jitters. Keep the Ritual.",
+      "Feel Calm. Feel Clear. Feel Better."
+    ],
+    "subheadlines": [
+      "Organica Tulsi Green Tea gives you steady energy — no crash, no anxiety, no regrets.",
+      "Thousands have already made the switch. Your gentler morning routine starts today.",
+      "Same cozy cup. Zero jitters. Tulsi Green Tea is the upgrade your mornings deserve."
+    ],
+    "ctas": [
+      "Try It Today",
+      "Make the Switch",
+      "Shop Now"
+    ]
+  }
+}
