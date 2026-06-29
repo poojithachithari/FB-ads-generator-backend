@@ -34,9 +34,16 @@ const upload = multer({
   }
 });
 
-// GET all templates
+// GET all templates — rewrite relative imageUrls to absolute so cross-origin frontends can load them
 router.get('/', (req, res) => {
-  res.json(readTemplates());
+  const backendUrl = `${req.protocol}://${req.get('host')}`;
+  const templates = readTemplates().map(t => ({
+    ...t,
+    imageUrl: t.imageUrl && t.imageUrl.startsWith('/')
+      ? `${backendUrl}${t.imageUrl}`
+      : t.imageUrl
+  }));
+  res.json(templates);
 });
 
 // POST add template
@@ -45,11 +52,12 @@ router.post('/', upload.single('image'), (req, res) => {
   if (!name || !req.file) return res.status(400).json({ error: 'name and image are required' });
 
   const templates = readTemplates();
+  const backendUrl = `${req.protocol}://${req.get('host')}`;
   const entry = {
     id:        uuidv4(),
     name:      name.trim(),
     filename:  req.file.filename,
-    imageUrl:  `/template-images/${req.file.filename}`,
+    imageUrl:  `${backendUrl}/template-images/${req.file.filename}`,
     createdAt: new Date().toISOString()
   };
   templates.push(entry);

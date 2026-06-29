@@ -35,9 +35,9 @@ router.post('/', upload.array('productImages', 10), async (req, res) => {
 
     const files = req.files || [];
     const primaryFile = files[0] || null;
-    const PORT = process.env.PORT || 3001;
+    const backendUrl = `${req.protocol}://${req.get('host')}`;
     const productImageUrl = primaryFile
-      ? `http://localhost:${PORT}/uploads/${primaryFile.filename}`
+      ? `${backendUrl}/uploads/${primaryFile.filename}`
       : null;
     const productImageFilenames = files.map(f => f.filename);
 

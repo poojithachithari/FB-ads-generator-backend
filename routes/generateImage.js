@@ -550,10 +550,11 @@ router.post('/', async (req, res) => {
     // Save image file to disk
     const filename = `ad_${uuidv4()}.png`;
     fs.writeFileSync(path.join(__dirname, '../generated', filename), imageBuffer);
-    const localUrl = `http://localhost:${process.env.PORT || 3001}/generated/${filename}`;
+    const backendUrl = `${req.protocol}://${req.get('host')}`;
+    const imageUrl = `${backendUrl}/generated/${filename}`;
     console.log(`[img] Done via ${method} -> ${filename}`);
 
-    res.json({ imageUrl: localUrl, filename, method });
+    res.json({ imageUrl, filename, method });
   } catch (err) {
     console.error('[img] Unexpected error:', err);
     res.status(500).json({ error: err.message || 'Image generation failed' });

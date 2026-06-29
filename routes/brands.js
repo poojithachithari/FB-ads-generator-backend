@@ -10,8 +10,8 @@ const BRAND_IMG_DIR = path.join(__dirname, '../brand-images');
 // Ensure brand-images root exists
 if (!fs.existsSync(BRAND_IMG_DIR)) fs.mkdirSync(BRAND_IMG_DIR, { recursive: true });
 
-// Extract local file path from a localhost imageUrl
-// e.g. "http://localhost:3001/generated/ad_abc.png" -> "{backendDir}/generated/ad_abc.png"
+// Extract local file path from any absolute imageUrl
+// e.g. "https://myapp.onrender.com/generated/ad_abc.png" -> "{backendDir}/generated/ad_abc.png"
 function resolveImagePath(imageUrl) {
   if (!imageUrl) return null;
   try {
@@ -36,6 +36,8 @@ function writeBrands(data) {
 
 // GET all brands (summary — no full sessions payload)
 router.get('/', (req, res) => {
+  const backendUrl = `${req.protocol}://${req.get('host')}`;
+  const fixUrl = u => (u && u.startsWith('/') ? `${backendUrl}${u}` : u);
   const brands = readBrands();
   const summary = brands.map(b => ({
     id: b.id,
@@ -43,18 +45,24 @@ router.get('/', (req, res) => {
     briefTemplate: b.briefTemplate,
     createdAt: b.createdAt,
     sessionCount: (b.sessions || []).length,
-    lastImage: (b.sessions || []).slice(-1)[0]?.imageUrl || null,
+    lastImage: fixUrl((b.sessions || []).slice(-1)[0]?.imageUrl || null),
     lastCreatedAt: (b.sessions || []).slice(-1)[0]?.createdAt || null
   }));
   res.json(summary);
 });
 
-// GET single brand with all sessions
+// GET single brand with all sessions — rewrite relative imageUrls to absolute
 router.get('/:id', (req, res) => {
+  const backendUrl = `${req.protocol}://${req.get('host')}`;
+  const fixUrl = u => (u && u.startsWith('/') ? `${backendUrl}${u}` : u);
   const brands = readBrands();
   const brand = brands.find(b => b.id === req.params.id);
   if (!brand) return res.status(404).json({ error: 'Brand not found' });
-  res.json(brand);
+  const out = {
+    ...brand,
+    sessions: (brand.sessions || []).map(s => ({ ...s, imageUrl: fixUrl(s.imageUrl) }))
+  };
+  res.json(out);
 });
 
 // POST create brand
@@ -121,8 +129,9 @@ router.post('/:id/sessions', (req, res) => {
         if (!fs.existsSync(brandImgDir)) fs.mkdirSync(brandImgDir, { recursive: true });
         const destPath = path.join(brandImgDir, sessionId + '.png');
         fs.copyFileSync(srcPath, destPath);
-        // Store as a relative URL so it works on any port/host
-        permanentImageUrl = `/brand-images/${brands[idx].id}/${sessionId}.png`;
+        // Store as absolute URL using the current host
+        const backendUrl = `${req.protocol}://${req.get('host')}`;
+        permanentImageUrl = `${backendUrl}/brand-images/${brands[idx].id}/${sessionId}.png`;
         console.log('[brands] Image copied to:', destPath);
       }
     } catch (imgErr) {
